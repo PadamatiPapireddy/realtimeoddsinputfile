@@ -1,0 +1,5773 @@
+{
+  "liveEvents": [
+    {
+      
+      "liveData": {
+        "eventId": 1007707897,
+        "matchClock": {
+          "minute": 0,
+          "second": 0,
+          "minutesLeftInPeriod": 0,
+          "secondsLeftInMinute": 0,
+          "running": false,
+          "disabled": true
+        },
+        "score": {
+          "home": "0",
+          "away": "0",
+          "info": "Best of 3",
+          "who": "UNKNOWN"
+        },
+        "liveStatistics": [
+          
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267735483,
+        "criterion": {
+          "id": 1004800442,
+          "label": "Match Odds",
+          "englishLabel": "Match Odds",
+          "order": [
+            0
+          ]
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007707897,
+        "outcomes": [
+          {
+            "id": 2929842733,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 1400,
+            "type": "OT_ONE",
+            "betOfferId": 2267735483,
+            "changedDate": "2021-06-11T10:41:34Z",
+            "oddsFractional": "2/5",
+            "oddsAmerican": "-250",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929842735,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 2800,
+            "type": "OT_TWO",
+            "betOfferId": 2267735483,
+            "changedDate": "2021-06-11T10:41:34Z",
+            "oddsFractional": "9/5",
+            "oddsAmerican": "180",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "ENABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007708916,
+        "name": "Chetz - Ambush Esport",
+        "nameDelimiter": "-",
+        "englishName": "Chetz - Ambush Esport",
+        "homeName": "Chetz",
+        "awayName": "Ambush Esport",
+        "start": "2021-06-11T10:01:28Z",
+        "group": "Spring Sweet Spring",
+        "groupId": 2000130173,
+        "path": [
+          {
+            "id": 2000077768,
+            "name": "Esports",
+            "englishName": "Esports",
+            "termKey": "esports"
+          },
+          {
+            "id": 2000116614,
+            "name": "CS:GO",
+            "englishName": "CS:GO",
+            "termKey": "cs_go"
+          },
+          {
+            "id": 2000130173,
+            "name": "Spring Sweet Spring",
+            "englishName": "Spring Sweet Spring",
+            "termKey": "spring_sweet_spring"
+          }
+        ],
+        "nonLiveBoCount": 0,
+        "liveBoCount": 15,
+        "sport": "COUNTER_STRIKE",
+        "tags": [
+          "OPEN_FOR_LIVE",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007708916,
+        "matchClock": {
+          "minute": 0,
+          "second": 0,
+          "minutesLeftInPeriod": 0,
+          "secondsLeftInMinute": 0,
+          "running": false,
+          "disabled": true
+        },
+        "score": {
+          "home": "0",
+          "away": "0",
+          "info": "Best of 3",
+          "who": "UNKNOWN"
+        },
+        "liveStatistics": [
+          
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267735333,
+        "suspended": true,
+        "criterion": {
+          "id": 1004800442,
+          "label": "Match Odds",
+          "englishLabel": "Match Odds",
+          "order": [
+            0
+          ]
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007708916,
+        "outcomes": [
+          {
+            "id": 2929842298,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 1720,
+            "type": "OT_ONE",
+            "betOfferId": 2267735333,
+            "changedDate": "2021-06-11T10:37:25Z",
+            "oddsFractional": "7/10",
+            "oddsAmerican": "-139",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929842300,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 2000,
+            "type": "OT_TWO",
+            "betOfferId": 2267735333,
+            "changedDate": "2021-06-11T10:37:25Z",
+            "oddsFractional": "Evens",
+            "oddsAmerican": "100",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "SUSPENDED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007700676,
+        "name": "Scandinavian Mixed Hosted by Henrik & Annika 2021 - Overall Winner",
+        "englishName": "Scandinavian Mixed Hosted by Henrik & Annika 2021 - Overall Winner",
+        "homeName": "Scandinavian Mixed Hosted by Henrik & Annika 2021 - Overall Winner",
+        "start": "2021-06-11T05:33:52Z",
+        "group": "Scandinavian Mixed Hosted by Henrik & Annika",
+        "groupId": 2000130580,
+        "path": [
+          {
+            "id": 1000093187,
+            "name": "Golf",
+            "englishName": "Golf",
+            "termKey": "golf"
+          },
+          {
+            "id": 1000093480,
+            "name": "European Tour",
+            "englishName": "European Tour",
+            "termKey": "european_tour"
+          },
+          {
+            "id": 2000130580,
+            "name": "Scandinavian Mixed Hosted by Henrik & Annika",
+            "englishName": "Scandinavian Mixed Hosted by Henrik & Annika",
+            "termKey": "scandinavian_mixed_hosted_by_henrik___annika"
+          }
+        ],
+        "nonLiveBoCount": 1,
+        "liveBoCount": 1,
+        "sport": "GOLF",
+        "tags": [
+          "OPEN_FOR_LIVE",
+          "COMPETITION",
+          "SHOW_START_NUMBER"
+        ],
+        "state": "STARTED",
+        "sortOrder": 3
+      },
+      "liveData": {
+        "eventId": 1007700676,
+        "matchClock": {
+          "minute": 0,
+          "second": 0,
+          "minutesLeftInPeriod": 0,
+          "secondsLeftInMinute": 0,
+          "running": false,
+          "disabled": true
+        },
+        "liveStatistics": [
+          
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267255667,
+        "criterion": {
+          "id": 1004240927,
+          "label": "Finishing Position",
+          "englishLabel": "Finishing Position",
+          "order": [
+            
+          ]
+        },
+        "betOfferType": {
+          "id": 117,
+          "name": "Position",
+          "englishName": "Position"
+        },
+        "eventId": 1007700676,
+        "outcomes": [
+          {
+            "id": 2928373426,
+            "label": "Aberg, Ludvig",
+            "englishLabel": "Aberg, Ludvig",
+            "odds": 151000,
+            "participant": "Aberg, Ludvig",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1004901258,
+            "oddsFractional": "150/1",
+            "oddsAmerican": "15000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373430,
+            "label": "Antcliff, Maverick",
+            "englishLabel": "Antcliff, Maverick",
+            "odds": 91000,
+            "participant": "Antcliff, Maverick",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1003584513,
+            "oddsFractional": "90/1",
+            "oddsAmerican": "9000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373435,
+            "label": "Besseling, Wil",
+            "englishLabel": "Besseling, Wil",
+            "odds": 26000,
+            "participant": "Besseling, Wil",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000018897,
+            "oddsFractional": "25/1",
+            "oddsAmerican": "2500",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373436,
+            "label": "Björk, Alexander",
+            "englishLabel": "Björk, Alexander",
+            "odds": 126000,
+            "participant": "Björk, Alexander",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1001835424,
+            "oddsFractional": "125/1",
+            "oddsAmerican": "12500",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373442,
+            "label": "Brown, Steven",
+            "englishLabel": "Brown, Steven",
+            "odds": 29000,
+            "participant": "Brown, Steven",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000788354,
+            "oddsFractional": "28/1",
+            "oddsAmerican": "2800",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373444,
+            "label": "Caldwell, Jonathan",
+            "englishLabel": "Caldwell, Jonathan",
+            "odds": 101000,
+            "participant": "Caldwell, Jonathan",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000491338,
+            "oddsFractional": "100/1",
+            "oddsAmerican": "10000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373447,
+            "label": "Chesters, Ashley",
+            "englishLabel": "Chesters, Ashley",
+            "odds": 21000,
+            "participant": "Chesters, Ashley",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1001294878,
+            "oddsFractional": "20/1",
+            "oddsAmerican": "2000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373449,
+            "label": "Cockerill, Aaron",
+            "englishLabel": "Cockerill, Aaron",
+            "odds": 501000,
+            "participant": "Cockerill, Aaron",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1003707715,
+            "oddsFractional": "500/1",
+            "oddsAmerican": "50000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373451,
+            "label": "Cowan, Olivia",
+            "englishLabel": "Cowan, Olivia",
+            "odds": 34000,
+            "participant": "Cowan, Olivia",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1003014927,
+            "oddsFractional": "33/1",
+            "oddsAmerican": "3300",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373458,
+            "label": "Donaldson, Jamie",
+            "englishLabel": "Donaldson, Jamie",
+            "odds": 101000,
+            "participant": "Donaldson, Jamie",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000855750,
+            "oddsFractional": "100/1",
+            "oddsAmerican": "10000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373459,
+            "label": "Drysdale, David",
+            "englishLabel": "Drysdale, David",
+            "odds": 51000,
+            "participant": "Drysdale, David",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000855754,
+            "oddsFractional": "50/1",
+            "oddsAmerican": "5000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373462,
+            "label": "Fichardt, Darren",
+            "englishLabel": "Fichardt, Darren",
+            "odds": 15000,
+            "participant": "Fichardt, Darren",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000088091,
+            "oddsFractional": "14/1",
+            "oddsAmerican": "1400",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373463,
+            "label": "Figueiredo, Pedro",
+            "englishLabel": "Figueiredo, Pedro",
+            "odds": 101000,
+            "participant": "Figueiredo, Pedro",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000062382,
+            "oddsFractional": "100/1",
+            "oddsAmerican": "10000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373465,
+            "label": "Fox, Ryan",
+            "englishLabel": "Fox, Ryan",
+            "odds": 51000,
+            "participant": "Fox, Ryan",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000609204,
+            "oddsFractional": "50/1",
+            "oddsAmerican": "5000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373467,
+            "label": "Fuenfstueck, Laura",
+            "englishLabel": "Fuenfstueck, Laura",
+            "odds": 81000,
+            "participant": "Fuenfstueck, Laura",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1004951430,
+            "oddsFractional": "80/1",
+            "oddsAmerican": "8000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373469,
+            "label": "Garcia Rodriguez, Sebastian",
+            "englishLabel": "Garcia Rodriguez, Sebastian",
+            "odds": 126000,
+            "participant": "Garcia Rodriguez, Sebastian",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1003204255,
+            "oddsFractional": "125/1",
+            "oddsAmerican": "12500",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373473,
+            "label": "Grant, Linn",
+            "englishLabel": "Grant, Linn",
+            "odds": 91000,
+            "participant": "Grant, Linn",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1004708322,
+            "oddsFractional": "90/1",
+            "oddsAmerican": "9000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373479,
+            "label": "Hansen, Joachim B.",
+            "englishLabel": "Hansen, Joachim B.",
+            "odds": 13000,
+            "participant": "Hansen, Joachim B.",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000664117,
+            "oddsFractional": "12/1",
+            "oddsAmerican": "1200",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373481,
+            "label": "Harm, Leonie",
+            "englishLabel": "Harm, Leonie",
+            "odds": 81000,
+            "participant": "Harm, Leonie",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1004869425,
+            "oddsFractional": "80/1",
+            "oddsAmerican": "8000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373483,
+            "label": "Hedwall, Caroline",
+            "englishLabel": "Hedwall, Caroline",
+            "odds": 7500,
+            "participant": "Hedwall, Caroline",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000062824,
+            "oddsFractional": "13/2",
+            "oddsAmerican": "650",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373484,
+            "label": "Hend, Scott",
+            "englishLabel": "Hend, Scott",
+            "odds": 151000,
+            "participant": "Hend, Scott",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000855787,
+            "oddsFractional": "150/1",
+            "oddsAmerican": "15000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373488,
+            "label": "Hewson, Alice",
+            "englishLabel": "Hewson, Alice",
+            "odds": 101000,
+            "participant": "Hewson, Alice",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1006200883,
+            "oddsFractional": "100/1",
+            "oddsAmerican": "10000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373490,
+            "label": "Horsey, David",
+            "englishLabel": "Horsey, David",
+            "odds": 26000,
+            "participant": "Horsey, David",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000855790,
+            "oddsFractional": "25/1",
+            "oddsAmerican": "2500",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373491,
+            "label": "Horsfield, Sam",
+            "englishLabel": "Horsfield, Sam",
+            "odds": 41000,
+            "participant": "Horsfield, Sam",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1002697548,
+            "oddsFractional": "40/1",
+            "oddsAmerican": "4000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373496,
+            "label": "Johnson, Felicity",
+            "englishLabel": "Johnson, Felicity",
+            "odds": 151000,
+            "participant": "Johnson, Felicity",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000346721,
+            "oddsFractional": "150/1",
+            "oddsAmerican": "15000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373497,
+            "label": "Jordan, Matthew",
+            "englishLabel": "Jordan, Matthew",
+            "odds": 351000,
+            "participant": "Jordan, Matthew",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1004965820,
+            "oddsFractional": "350/1",
+            "oddsAmerican": "35000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373499,
+            "label": "Kawamura, Masahiro",
+            "englishLabel": "Kawamura, Masahiro",
+            "odds": 67000,
+            "participant": "Kawamura, Masahiro",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000076827,
+            "oddsFractional": "66/1",
+            "oddsAmerican": "6600",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373501,
+            "label": "Kruyswijk, Jacques",
+            "englishLabel": "Kruyswijk, Jacques",
+            "odds": 41000,
+            "participant": "Kruyswijk, Jacques",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1001937498,
+            "oddsFractional": "40/1",
+            "oddsAmerican": "4000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373502,
+            "label": "Kyriacou, Stephanie",
+            "englishLabel": "Kyriacou, Stephanie",
+            "odds": 41000,
+            "participant": "Kyriacou, Stephanie",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1005316808,
+            "oddsFractional": "40/1",
+            "oddsAmerican": "4000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373504,
+            "label": "Lampert, Karolin",
+            "englishLabel": "Lampert, Karolin",
+            "odds": 101000,
+            "participant": "Lampert, Karolin",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1003679440,
+            "oddsFractional": "100/1",
+            "oddsAmerican": "10000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373509,
+            "label": "Lombard, Zander",
+            "englishLabel": "Lombard, Zander",
+            "odds": 351000,
+            "participant": "Lombard, Zander",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1001431213,
+            "oddsFractional": "350/1",
+            "oddsAmerican": "35000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373510,
+            "label": "Luiten, Joost",
+            "englishLabel": "Luiten, Joost",
+            "odds": 4000,
+            "participant": "Luiten, Joost",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000855818,
+            "oddsFractional": "3/1",
+            "oddsAmerican": "300",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373514,
+            "label": "Malik, Tvesa",
+            "englishLabel": "Malik, Tvesa",
+            "odds": 351000,
+            "participant": "Malik, Tvesa",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1005061958,
+            "oddsFractional": "350/1",
+            "oddsAmerican": "35000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373520,
+            "label": "Morrison, James",
+            "englishLabel": "Morrison, James",
+            "odds": 201000,
+            "participant": "Morrison, James",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000855827,
+            "oddsFractional": "200/1",
+            "oddsAmerican": "20000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373524,
+            "label": "Norrman, Vincent",
+            "englishLabel": "Norrman, Vincent",
+            "odds": 51000,
+            "participant": "Norrman, Vincent",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1007700653,
+            "oddsFractional": "50/1",
+            "oddsAmerican": "5000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373525,
+            "label": "Nuutinen, Sanna",
+            "englishLabel": "Nuutinen, Sanna",
+            "odds": 101000,
+            "participant": "Nuutinen, Sanna",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1003806021,
+            "oddsFractional": "100/1",
+            "oddsAmerican": "10000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373527,
+            "label": "Otaegui, Adrian",
+            "englishLabel": "Otaegui, Adrian",
+            "odds": 251000,
+            "participant": "Otaegui, Adrian",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1001004156,
+            "oddsFractional": "250/1",
+            "oddsAmerican": "25000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373532,
+            "label": "Pedersen, Emily Kristine",
+            "englishLabel": "Pedersen, Emily Kristine",
+            "odds": 81000,
+            "participant": "Pedersen, Emily Kristine",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1005138311,
+            "oddsFractional": "80/1",
+            "oddsAmerican": "8000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373533,
+            "label": "Pigem, Carlos",
+            "englishLabel": "Pigem, Carlos",
+            "odds": 151000,
+            "participant": "Pigem, Carlos",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000563071,
+            "oddsFractional": "150/1",
+            "oddsAmerican": "15000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373538,
+            "label": "Rai, Aaron",
+            "englishLabel": "Rai, Aaron",
+            "odds": 251000,
+            "participant": "Rai, Aaron",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1003145346,
+            "oddsFractional": "250/1",
+            "oddsAmerican": "25000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373539,
+            "label": "Ramsay, Richie",
+            "englishLabel": "Ramsay, Richie",
+            "odds": 41000,
+            "participant": "Ramsay, Richie",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000855843,
+            "oddsFractional": "40/1",
+            "oddsAmerican": "4000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373540,
+            "label": "Rock, Robert",
+            "englishLabel": "Rock, Robert",
+            "odds": 251000,
+            "participant": "Rock, Robert",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000855845,
+            "oddsFractional": "250/1",
+            "oddsAmerican": "25000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373541,
+            "label": "Roussel, Robin",
+            "englishLabel": "Roussel, Robin",
+            "odds": 201000,
+            "participant": "Roussel, Robin",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1002981187,
+            "oddsFractional": "200/1",
+            "oddsAmerican": "20000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373542,
+            "label": "Samooja, Kalle",
+            "englishLabel": "Samooja, Kalle",
+            "odds": 7500,
+            "participant": "Samooja, Kalle",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000615551,
+            "oddsFractional": "13/2",
+            "oddsAmerican": "650",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373545,
+            "label": "Schmidt, Sarina",
+            "englishLabel": "Schmidt, Sarina",
+            "odds": 101000,
+            "participant": "Schmidt, Sarina",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1005990700,
+            "oddsFractional": "100/1",
+            "oddsAmerican": "10000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373547,
+            "label": "Sciot-Siegrist, Robin",
+            "englishLabel": "Sciot-Siegrist, Robin",
+            "odds": 201000,
+            "participant": "Sciot-Siegrist, Robin",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1002762620,
+            "oddsFractional": "200/1",
+            "oddsAmerican": "20000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373548,
+            "label": "Scrivener, Jason",
+            "englishLabel": "Scrivener, Jason",
+            "odds": 46000,
+            "participant": "Scrivener, Jason",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000241559,
+            "oddsFractional": "45/1",
+            "oddsAmerican": "4500",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373549,
+            "label": "Senior, Jack",
+            "englishLabel": "Senior, Jack",
+            "odds": 67000,
+            "participant": "Senior, Jack",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1001089608,
+            "oddsFractional": "66/1",
+            "oddsAmerican": "6600",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373550,
+            "label": "Sharma, Shubhankar",
+            "englishLabel": "Sharma, Shubhankar",
+            "odds": 201000,
+            "participant": "Sharma, Shubhankar",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1002409223,
+            "oddsFractional": "200/1",
+            "oddsAmerican": "20000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373551,
+            "label": "Sihwan Kim",
+            "englishLabel": "Sihwan Kim",
+            "odds": 101000,
+            "participant": "Sihwan Kim",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1001155348,
+            "oddsFractional": "100/1",
+            "oddsAmerican": "10000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373556,
+            "label": "Southgate, Matthew",
+            "englishLabel": "Southgate, Matthew",
+            "odds": 151000,
+            "participant": "Southgate, Matthew",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000907586,
+            "oddsFractional": "150/1",
+            "oddsAmerican": "15000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373557,
+            "label": "Stark, Maja",
+            "englishLabel": "Stark, Maja",
+            "odds": 201000,
+            "participant": "Stark, Maja",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1007131441,
+            "oddsFractional": "200/1",
+            "oddsAmerican": "20000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373559,
+            "label": "Thitikul, Atthaya",
+            "englishLabel": "Thitikul, Atthaya",
+            "odds": 41000,
+            "participant": "Thitikul, Atthaya",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1003829084,
+            "oddsFractional": "40/1",
+            "oddsAmerican": "4000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373564,
+            "label": "Walters, Justin",
+            "englishLabel": "Walters, Justin",
+            "odds": 101000,
+            "participant": "Walters, Justin",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000089791,
+            "oddsFractional": "100/1",
+            "oddsAmerican": "10000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2928373570,
+            "label": "Wolf, Christine",
+            "englishLabel": "Wolf, Christine",
+            "odds": 101000,
+            "participant": "Wolf, Christine",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1001031745,
+            "oddsFractional": "100/1",
+            "oddsAmerican": "10000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929013980,
+            "label": "Angles, Pep",
+            "englishLabel": "Angles, Pep",
+            "odds": 26000,
+            "participant": "Angles, Pep",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1002747732,
+            "oddsFractional": "25/1",
+            "oddsAmerican": "2500",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929013981,
+            "label": "Broberg, Kristoffer",
+            "englishLabel": "Broberg, Kristoffer",
+            "odds": 201000,
+            "participant": "Broberg, Kristoffer",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1001044824,
+            "oddsFractional": "200/1",
+            "oddsAmerican": "20000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929013982,
+            "label": "Enoch, Rhys",
+            "englishLabel": "Enoch, Rhys",
+            "odds": 151000,
+            "participant": "Enoch, Rhys",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000149459,
+            "oddsFractional": "150/1",
+            "oddsAmerican": "15000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929013983,
+            "label": "Hojgaard, Nicolai",
+            "englishLabel": "Hojgaard, Nicolai",
+            "odds": 101000,
+            "participant": "Hojgaard, Nicolai",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1004172687,
+            "oddsFractional": "100/1",
+            "oddsAmerican": "10000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929013986,
+            "label": "Whitnell, Dale",
+            "englishLabel": "Whitnell, Dale",
+            "odds": 201000,
+            "participant": "Whitnell, Dale",
+            "type": "OT_UNTYPED",
+            "betOfferId": 2267255667,
+            "changedDate": "2021-06-11T10:34:50Z",
+            "participantId": 1000551519,
+            "oddsFractional": "200/1",
+            "oddsAmerican": "20000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "eachWay": {
+          "fractionMilli": 200,
+          "terms": "1/5 1-2-3-4-5",
+          "placeLimit": 5,
+          "tags": [
+            
+          ]
+        },
+        "tags": [
+          "OFFERED_PREMATCH",
+          "OFFERED_LIVE",
+          "MAIN"
+        ],
+        "cashOutStatus": "ENABLED",
+        "from": 1,
+        "to": 1,
+        "description": "Winner"
+      }
+    },
+    {
+      "event": {
+        "id": 1007713668,
+        "name": "Querrey, Sam - Stricker, Dominic Stephan",
+        "nameDelimiter": "-",
+        "englishName": "Querrey, Sam - Stricker, Dominic Stephan",
+        "homeName": "Querrey, Sam",
+        "awayName": "Stricker, Dominic Stephan",
+        "start": "2021-06-11T09:05:12Z",
+        "group": "Stuttgart",
+        "groupId": 1000096195,
+        "path": [
+          {
+            "id": 1000093193,
+            "name": "Tennis",
+            "englishName": "Tennis",
+            "termKey": "tennis"
+          },
+          {
+            "id": 1000093324,
+            "name": "ATP",
+            "englishName": "ATP",
+            "termKey": "atp"
+          },
+          {
+            "id": 1000096195,
+            "name": "Stuttgart",
+            "englishName": "Stuttgart",
+            "termKey": "stuttgart"
+          }
+        ],
+        "nonLiveBoCount": 2,
+        "liveBoCount": 29,
+        "sport": "TENNIS",
+        "tags": [
+          "VISUALIZATION",
+          "OPEN_FOR_LIVE",
+          "PREMATCH_STATS",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007713668,
+        "matchClock": {
+          "minute": 97,
+          "second": 44,
+          "running": true
+        },
+        "score": {
+          "home": "0",
+          "away": "0",
+          "who": "UNKNOWN"
+        },
+        "statistics": {
+          "sets": {
+            "home": [
+              6,
+              7,
+              1
+            ],
+            "away": [
+              7,
+              6,
+              1
+            ],
+            "homeServe": true
+          }
+        },
+        "liveStatistics": [
+          {
+            "occurrenceTypeId": "DOUBLE_FAULTS_AWAY",
+            "count": 3
+          },
+          {
+            "occurrenceTypeId": "DOUBLE_FAULTS_HOME",
+            "count": 7
+          },
+          {
+            "occurrenceTypeId": "ACES_WON_HOME",
+            "count": 28
+          },
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_HOME",
+            "count": 25
+          },
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_AWAY",
+            "count": 50
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_HOME",
+            "count": 79
+          },
+          {
+            "occurrenceTypeId": "ACES_WON_AWAY",
+            "count": 15
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_AWAY",
+            "count": 79
+          }
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267637815,
+        "criterion": {
+          "id": 1001159551,
+          "label": "Match Odds",
+          "englishLabel": "Match Odds",
+          "order": [
+            0
+          ]
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007713668,
+        "outcomes": [
+          {
+            "id": 2929525910,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 1760,
+            "type": "OT_ONE",
+            "betOfferId": 2267637815,
+            "changedDate": "2021-06-11T10:42:13Z",
+            "oddsFractional": "3/4",
+            "oddsAmerican": "-132",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929525915,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 2020,
+            "type": "OT_TWO",
+            "betOfferId": 2267637815,
+            "changedDate": "2021-06-11T10:42:13Z",
+            "oddsFractional": "Evens",
+            "oddsAmerican": "102",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_PREMATCH",
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "ENABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007714998,
+        "name": "Bara, Irina Maria - Rus, Arantxa",
+        "nameDelimiter": "-",
+        "englishName": "Bara, Irina Maria - Rus, Arantxa",
+        "homeName": "Bara, Irina Maria",
+        "awayName": "Rus, Arantxa",
+        "start": "2021-06-11T10:02:33Z",
+        "group": "Bol",
+        "groupId": 2000094671,
+        "path": [
+          {
+            "id": 1000093193,
+            "name": "Tennis",
+            "englishName": "Tennis",
+            "termKey": "tennis"
+          },
+          {
+            "id": 1000093904,
+            "name": "WTA",
+            "englishName": "WTA",
+            "termKey": "wta"
+          },
+          {
+            "id": 2000094671,
+            "name": "Bol",
+            "englishName": "Bol",
+            "termKey": "bol"
+          }
+        ],
+        "nonLiveBoCount": 12,
+        "liveBoCount": 55,
+        "sport": "TENNIS",
+        "tags": [
+          "VISUALIZATION",
+          "OPEN_FOR_LIVE",
+          "PREMATCH_STATS",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007714998,
+        "matchClock": {
+          "minute": 40,
+          "second": 24,
+          "running": true
+        },
+        "score": {
+          "home": "0",
+          "away": "0",
+          "who": "UNKNOWN"
+        },
+        "statistics": {
+          "sets": {
+            "home": [
+              2,
+              0,
+              -1
+            ],
+            "away": [
+              6,
+              0,
+              -1
+            ],
+            "homeServe": false
+          }
+        },
+        "liveStatistics": [
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_HOME",
+            "count": 33
+          },
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_AWAY",
+            "count": 50
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_HOME",
+            "count": 44
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_AWAY",
+            "count": 63
+          }
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267699159,
+        "criterion": {
+          "id": 1001159551,
+          "label": "Match Odds",
+          "englishLabel": "Match Odds",
+          "order": [
+            0
+          ]
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007714998,
+        "outcomes": [
+          {
+            "id": 2929716341,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 5750,
+            "type": "OT_ONE",
+            "betOfferId": 2267699159,
+            "changedDate": "2021-06-11T10:41:48Z",
+            "oddsFractional": "19/4",
+            "oddsAmerican": "475",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929716346,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 1130,
+            "type": "OT_TWO",
+            "betOfferId": 2267699159,
+            "changedDate": "2021-06-11T10:41:48Z",
+            "oddsFractional": "1/8",
+            "oddsAmerican": "-770",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_PREMATCH",
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "ENABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007713993,
+        "name": "Konta, Johanna - Van Uytvanck, Alison",
+        "nameDelimiter": "-",
+        "englishName": "Konta, Johanna - Van Uytvanck, Alison",
+        "homeName": "Konta, Johanna",
+        "awayName": "Van Uytvanck, Alison",
+        "start": "2021-06-11T10:03:10Z",
+        "group": "Nottingham",
+        "groupId": 2000087488,
+        "path": [
+          {
+            "id": 1000093193,
+            "name": "Tennis",
+            "englishName": "Tennis",
+            "termKey": "tennis"
+          },
+          {
+            "id": 1000093904,
+            "name": "WTA",
+            "englishName": "WTA",
+            "termKey": "wta"
+          },
+          {
+            "id": 2000087488,
+            "name": "Nottingham",
+            "englishName": "Nottingham",
+            "termKey": "nottingham"
+          }
+        ],
+        "nonLiveBoCount": 9,
+        "liveBoCount": 47,
+        "sport": "TENNIS",
+        "tags": [
+          "VISUALIZATION",
+          "OPEN_FOR_LIVE",
+          "PREMATCH_STATS",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007713993,
+        "matchClock": {
+          "minute": 39,
+          "second": 46,
+          "running": true
+        },
+        "score": {
+          "home": "40",
+          "away": "15",
+          "who": "AWAY"
+        },
+        "statistics": {
+          "sets": {
+            "home": [
+              6,
+              0,
+              -1
+            ],
+            "away": [
+              3,
+              0,
+              -1
+            ],
+            "homeServe": true
+          }
+        },
+        "liveStatistics": [
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_HOME",
+            "count": 75
+          },
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_AWAY",
+            "count": 100
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_HOME",
+            "count": 75
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_AWAY",
+            "count": 38
+          }
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267693894,
+        "criterion": {
+          "id": 1001159551,
+          "label": "Match Odds",
+          "englishLabel": "Match Odds",
+          "order": [
+            0
+          ]
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007713993,
+        "outcomes": [
+          {
+            "id": 2929706246,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 1080,
+            "type": "OT_ONE",
+            "betOfferId": 2267693894,
+            "changedDate": "2021-06-11T10:42:55Z",
+            "oddsFractional": "1/14",
+            "oddsAmerican": "-1250",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929706248,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 8500,
+            "type": "OT_TWO",
+            "betOfferId": 2267693894,
+            "changedDate": "2021-06-11T10:42:55Z",
+            "oddsFractional": "15/2",
+            "oddsAmerican": "750",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_PREMATCH",
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "ENABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007204615,
+        "name": "Sydney Swans - Hawthorn Hawks",
+        "nameDelimiter": "-",
+        "englishName": "Sydney Swans - Hawthorn Hawks",
+        "homeName": "Sydney Swans",
+        "awayName": "Hawthorn Hawks",
+        "start": "2021-06-11T09:50:10Z",
+        "group": "AFL",
+        "groupId": 1000470474,
+        "path": [
+          {
+            "id": 1000449347,
+            "name": "Australian Rules",
+            "englishName": "Australian Rules",
+            "termKey": "australian_rules"
+          },
+          {
+            "id": 1000470474,
+            "name": "AFL",
+            "englishName": "AFL",
+            "termKey": "afl"
+          }
+        ],
+        "nonLiveBoCount": 7,
+        "liveBoCount": 27,
+        "sport": "AUSTRALIAN_RULES",
+        "tags": [
+          "OPEN_FOR_LIVE",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007204615,
+        "matchClock": {
+          "minute": 29,
+          "second": 0,
+          "minutesLeftInPeriod": 11,
+          "secondsLeftInMinute": 0,
+          "period": "2nd Quarter",
+          "running": true
+        },
+        "score": {
+          "home": "27",
+          "away": "39",
+          "info": "Q1: 20-26 | Q2: 7-13",
+          "who": "UNKNOWN"
+        },
+        "liveStatistics": [
+          
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267717432,
+        "criterion": {
+          "id": 1002012991,
+          "label": "Regular Time (3-way)",
+          "englishLabel": "Regular Time (3-way)",
+          "order": [
+            
+          ],
+          "occurrenceType": "POINTS",
+          "lifetime": "FULL_TIME"
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007204615,
+        "outcomes": [
+          {
+            "id": 2929868935,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 1450,
+            "participant": "Sydney Swans",
+            "type": "OT_ONE",
+            "betOfferId": 2267717432,
+            "changedDate": "2021-06-11T10:41:51Z",
+            "participantId": 1000780160,
+            "oddsFractional": "4/9",
+            "oddsAmerican": "-225",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929868936,
+            "label": "X",
+            "englishLabel": "X",
+            "odds": 41000,
+            "type": "OT_CROSS",
+            "betOfferId": 2267717432,
+            "changedDate": "2021-06-11T10:41:51Z",
+            "oddsFractional": "40/1",
+            "oddsAmerican": "4000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929868937,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 2750,
+            "participant": "Hawthorn Hawks",
+            "type": "OT_TWO",
+            "betOfferId": 2267717432,
+            "changedDate": "2021-06-11T10:41:51Z",
+            "participantId": 1000780157,
+            "oddsFractional": "7/4",
+            "oddsAmerican": "175",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "ENABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007711858,
+        "name": "Holloway, Paul - Whitehead, Conan",
+        "nameDelimiter": "-",
+        "englishName": "Holloway, Paul - Whitehead, Conan",
+        "homeName": "Holloway, Paul",
+        "awayName": "Whitehead, Conan",
+        "start": "2021-06-11T10:30:00Z",
+        "group": "Modus Online Live League",
+        "groupId": 2000129353,
+        "path": [
+          {
+            "id": 1000093225,
+            "name": "Darts",
+            "englishName": "Darts",
+            "termKey": "darts"
+          },
+          {
+            "id": 2000129353,
+            "name": "Modus Online Live League",
+            "englishName": "Modus Online Live League",
+            "termKey": "modus_online_live_league"
+          }
+        ],
+        "nonLiveBoCount": 6,
+        "liveBoCount": 12,
+        "sport": "DARTS",
+        "tags": [
+          "OPEN_FOR_LIVE",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007711858,
+        "matchClock": {
+          "minute": 0,
+          "second": 0,
+          "minutesLeftInPeriod": 0,
+          "secondsLeftInMinute": 0,
+          "running": false,
+          "disabled": true
+        },
+        "score": {
+          "home": "0",
+          "away": "0",
+          "info": "",
+          "who": "UNKNOWN"
+        },
+        "liveStatistics": [
+          
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267683926,
+        "criterion": {
+          "id": 1004349706,
+          "label": "Match Odds",
+          "englishLabel": "Match Odds",
+          "order": [
+            
+          ]
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007711858,
+        "outcomes": [
+          {
+            "id": 2929690512,
+            "label": "Holloway, Paul",
+            "englishLabel": "Holloway, Paul",
+            "odds": 2700,
+            "participant": "Holloway, Paul",
+            "type": "OT_ONE",
+            "betOfferId": 2267683926,
+            "changedDate": "2021-06-11T10:42:50Z",
+            "participantId": 1007600443,
+            "oddsFractional": "17/10",
+            "oddsAmerican": "170",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929690515,
+            "label": "Whitehead, Conan",
+            "englishLabel": "Whitehead, Conan",
+            "odds": 1430,
+            "participant": "Whitehead, Conan",
+            "type": "OT_TWO",
+            "betOfferId": 2267683926,
+            "changedDate": "2021-06-11T10:42:50Z",
+            "participantId": 1001009068,
+            "oddsFractional": "21/50",
+            "oddsAmerican": "-235",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_PREMATCH",
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "ENABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007711403,
+        "name": "Japan - Serbia",
+        "nameDelimiter": "-",
+        "englishName": "Japan - Serbia",
+        "homeName": "Japan",
+        "awayName": "Serbia",
+        "start": "2021-06-11T10:28:54Z",
+        "group": "International Friendly Matches",
+        "groupId": 1000093570,
+        "path": [
+          {
+            "id": 1000093190,
+            "name": "Football",
+            "englishName": "Football",
+            "termKey": "football"
+          },
+          {
+            "id": 1000093570,
+            "name": "International Friendly Matches",
+            "englishName": "International Friendly Matches",
+            "termKey": "international_friendly_matches"
+          }
+        ],
+        "nonLiveBoCount": 41,
+        "liveBoCount": 79,
+        "sport": "FOOTBALL",
+        "tags": [
+          "VISUALIZATION",
+          "OPEN_FOR_LIVE",
+          "BET_BUILDER",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007711403,
+        "matchClock": {
+          "minute": 14,
+          "second": 3,
+          "minutesLeftInPeriod": 30,
+          "secondsLeftInMinute": 57,
+          "period": "1st half",
+          "running": true
+        },
+        "score": {
+          "home": "0",
+          "away": "0",
+          "who": "UNKNOWN"
+        },
+        "statistics": {
+          "football": {
+            "home": {
+              "yellowCards": 0,
+              "redCards": 0,
+              "corners": 0
+            },
+            "away": {
+              "yellowCards": 0,
+              "redCards": 0,
+              "corners": 0
+            }
+          }
+        },
+        "latestVisualization": {
+          "id": 145,
+          "eventId": 1007711403,
+          "occurrenceTypeId": "DANGER",
+          "periodId": "FIRST_HALF"
+        },
+        "liveStatistics": [
+          {
+            "occurrenceTypeId": "DANGEROUS_ATTACK_AWAY",
+            "count": 1
+          },
+          {
+            "occurrenceTypeId": "SHOTS_ON_TARGET_HOME",
+            "count": 1
+          },
+          {
+            "occurrenceTypeId": "ATTACK_AWAY",
+            "count": 14
+          },
+          {
+            "occurrenceTypeId": "ATTACK_HOME",
+            "count": 11
+          },
+          {
+            "occurrenceTypeId": "DANGEROUS_ATTACK_HOME",
+            "count": 6
+          }
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267569049,
+        "criterion": {
+          "id": 1001159858,
+          "label": "Full Time",
+          "englishLabel": "Full Time",
+          "order": [
+            
+          ],
+          "occurrenceType": "GOALS",
+          "lifetime": "FULL_TIME"
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007711403,
+        "outcomes": [
+          {
+            "id": 2929351689,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 2100,
+            "participant": "Japan",
+            "type": "OT_ONE",
+            "betOfferId": 2267569049,
+            "changedDate": "2021-06-11T10:35:30Z",
+            "participantId": 1000000149,
+            "oddsFractional": "11/10",
+            "oddsAmerican": "110",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929351690,
+            "label": "X",
+            "englishLabel": "X",
+            "odds": 3050,
+            "type": "OT_CROSS",
+            "betOfferId": 2267569049,
+            "changedDate": "2021-06-11T10:35:30Z",
+            "oddsFractional": "41/20",
+            "oddsAmerican": "205",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929351691,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 3750,
+            "participant": "Serbia",
+            "type": "OT_TWO",
+            "betOfferId": 2267569049,
+            "changedDate": "2021-06-11T10:35:30Z",
+            "participantId": 1000000141,
+            "oddsFractional": "11/4",
+            "oddsAmerican": "275",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_PREMATCH",
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "oddsStats": {
+          "unexpectedOddsTrend": false,
+          "outcomeId": 2929351689,
+          "startingOdds": 2150,
+          "startingOddsFractional": "23/20",
+          "startingOddsAmerican": "115"
+        },
+        "cashOutStatus": "ENABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007113892,
+        "name": "Cronulla Sharks - Penrith Panthers",
+        "nameDelimiter": "-",
+        "englishName": "Cronulla Sharks - Penrith Panthers",
+        "homeName": "Cronulla Sharks",
+        "awayName": "Penrith Panthers",
+        "start": "2021-06-11T10:01:17Z",
+        "group": "NRL",
+        "groupId": 2000050687,
+        "path": [
+          {
+            "id": 1000154363,
+            "name": "Rugby League",
+            "englishName": "Rugby League",
+            "termKey": "rugby_league"
+          },
+          {
+            "id": 2000050687,
+            "name": "NRL",
+            "englishName": "NRL",
+            "termKey": "nrl"
+          }
+        ],
+        "nonLiveBoCount": 6,
+        "liveBoCount": 24,
+        "sport": "RUGBY_LEAGUE",
+        "tags": [
+          "OPEN_FOR_LIVE",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007113892,
+        "matchClock": {
+          "minute": 38,
+          "second": 12,
+          "minutesLeftInPeriod": 1,
+          "secondsLeftInMinute": 48,
+          "period": "1st half",
+          "running": true
+        },
+        "score": {
+          "home": "18",
+          "away": "0",
+          "info": "",
+          "who": "UNKNOWN"
+        },
+        "liveStatistics": [
+          
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267027379,
+        "criterion": {
+          "id": 1002013008,
+          "label": "Regular Time (3-way)",
+          "englishLabel": "Regular Time (3-way)",
+          "order": [
+            
+          ],
+          "occurrenceType": "POINTS",
+          "lifetime": "FULL_TIME"
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007113892,
+        "outcomes": [
+          {
+            "id": 2927551825,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 1090,
+            "participant": "Cronulla Sharks",
+            "type": "OT_ONE",
+            "betOfferId": 2267027379,
+            "changedDate": "2021-06-11T10:41:56Z",
+            "participantId": 1000545007,
+            "oddsFractional": "1/12",
+            "oddsAmerican": "-1115",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2927551827,
+            "label": "X",
+            "englishLabel": "X",
+            "odds": 35000,
+            "type": "OT_CROSS",
+            "betOfferId": 2267027379,
+            "changedDate": "2021-06-11T10:41:56Z",
+            "oddsFractional": "34/1",
+            "oddsAmerican": "3400",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2927551830,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 8500,
+            "participant": "Penrith Panthers",
+            "type": "OT_TWO",
+            "betOfferId": 2267027379,
+            "changedDate": "2021-06-11T10:41:56Z",
+            "participantId": 1000545017,
+            "oddsFractional": "15/2",
+            "oddsAmerican": "750",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_PREMATCH",
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "ENABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007646273,
+        "name": "Slovenia - Russia",
+        "nameDelimiter": "-",
+        "englishName": "Slovenia - Russia",
+        "homeName": "Slovenia",
+        "awayName": "Russia",
+        "start": "2021-06-11T10:00:19Z",
+        "group": "Nations League",
+        "groupId": 2000115432,
+        "path": [
+          {
+            "id": 1000093214,
+            "name": "Volleyball",
+            "englishName": "Volleyball",
+            "termKey": "volleyball"
+          },
+          {
+            "id": 2000115432,
+            "name": "Nations League",
+            "englishName": "Nations League",
+            "termKey": "nations_league"
+          }
+        ],
+        "nonLiveBoCount": 10,
+        "liveBoCount": 26,
+        "sport": "VOLLEYBALL",
+        "tags": [
+          "OPEN_FOR_LIVE",
+          "PREMATCH_STATS",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007646273,
+        "matchClock": {
+          "minute": 42,
+          "second": 38,
+          "running": true
+        },
+        "score": {
+          "home": "7",
+          "away": "8",
+          "who": "AWAY"
+        },
+        "statistics": {
+          "sets": {
+            "home": [
+              19,
+              -1,
+              -1,
+              -1,
+              -1
+            ],
+            "away": [
+              25,
+              -1,
+              -1,
+              -1,
+              -1
+            ],
+            "homeServe": false
+          }
+        },
+        "liveStatistics": [
+          
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267666668,
+        "criterion": {
+          "id": 1001160042,
+          "label": "Match Odds",
+          "englishLabel": "Match Odds",
+          "order": [
+            
+          ]
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007646273,
+        "outcomes": [
+          {
+            "id": 2929688026,
+            "label": "Slovenia",
+            "englishLabel": "Slovenia",
+            "odds": 5200,
+            "participant": "Slovenia",
+            "type": "OT_ONE",
+            "betOfferId": 2267666668,
+            "changedDate": "2021-06-11T10:42:09Z",
+            "participantId": 1000065826,
+            "oddsFractional": "21/5",
+            "oddsAmerican": "420",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929688028,
+            "label": "Russia",
+            "englishLabel": "Russia",
+            "odds": 1140,
+            "participant": "Russia",
+            "type": "OT_TWO",
+            "betOfferId": 2267666668,
+            "changedDate": "2021-06-11T10:42:09Z",
+            "participantId": 1000065609,
+            "oddsFractional": "2/15",
+            "oddsAmerican": "-715",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_PREMATCH",
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "ENABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007708773,
+        "name": "Melbourne United - South East Melbourne Phoenix",
+        "nameDelimiter": "-",
+        "englishName": "Melbourne United - South East Melbourne Phoenix",
+        "homeName": "Melbourne United",
+        "awayName": "South East Melbourne Phoenix",
+        "start": "2021-06-11T09:30:00Z",
+        "group": "NBL",
+        "groupId": 1000286559,
+        "path": [
+          {
+            "id": 1000093204,
+            "name": "Basketball",
+            "englishName": "Basketball",
+            "termKey": "basketball"
+          },
+          {
+            "id": 1000463001,
+            "name": "Australia",
+            "englishName": "Australia",
+            "termKey": "australia"
+          },
+          {
+            "id": 1000286559,
+            "name": "NBL",
+            "englishName": "NBL",
+            "termKey": "nbl"
+          }
+        ],
+        "nonLiveBoCount": 21,
+        "liveBoCount": 21,
+        "sport": "BASKETBALL",
+        "tags": [
+          "OPEN_FOR_LIVE",
+          "PREMATCH_STATS",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007708773,
+        "matchClock": {
+          "minute": 25,
+          "second": 26,
+          "minutesLeftInPeriod": 4,
+          "secondsLeftInMinute": 34,
+          "period": "3rd Quarter",
+          "running": true
+        },
+        "score": {
+          "home": "69",
+          "away": "50",
+          "info": "Q1: 26-20 | Q2: 32-18 | Q3: 11-12",
+          "who": "AWAY"
+        },
+        "liveStatistics": [
+          {
+            "occurrenceTypeId": "POINTS_HOME",
+            "count": 69
+          },
+          {
+            "occurrenceTypeId": "POINTS_AWAY",
+            "count": 50
+          }
+        ]
+      }
+    },
+    {
+      "event": {
+        "id": 1007708978,
+        "name": "Turgutlu Belediyespor (W) - Rize Belediyesi (W)",
+        "nameDelimiter": "-",
+        "englishName": "Turgutlu Belediyespor (W) - Rize Belediyesi (W)",
+        "homeName": "Turgutlu Belediyespor (W)",
+        "awayName": "Rize Belediyesi (W)",
+        "start": "2021-06-11T10:00:00Z",
+        "group": "KBSL (W)",
+        "groupId": 2000057115,
+        "path": [
+          {
+            "id": 1000093204,
+            "name": "Basketball",
+            "englishName": "Basketball",
+            "termKey": "basketball"
+          },
+          {
+            "id": 1000463066,
+            "name": "Turkey",
+            "englishName": "Turkey",
+            "termKey": "turkey"
+          },
+          {
+            "id": 2000057115,
+            "name": "KBSL (W)",
+            "englishName": "KBSL (W)",
+            "termKey": "kbsl__w_"
+          }
+        ],
+        "nonLiveBoCount": 0,
+        "liveBoCount": 14,
+        "sport": "BASKETBALL",
+        "tags": [
+          "OPEN_FOR_LIVE",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007708978,
+        "matchClock": {
+          "minute": 20,
+          "second": 0,
+          "minutesLeftInPeriod": 10,
+          "secondsLeftInMinute": 0,
+          "period": "3rd Quarter",
+          "running": false
+        },
+        "score": {
+          "home": "26",
+          "away": "35",
+          "info": "Q1: 9-19 | Q2: 17-16 | Q3: 0-0",
+          "who": "UNKNOWN"
+        },
+        "liveStatistics": [
+          {
+            "occurrenceTypeId": "POINTS_HOME",
+            "count": 26
+          },
+          {
+            "occurrenceTypeId": "POINTS_AWAY",
+            "count": 35
+          }
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267722172,
+        "criterion": {
+          "id": 1001159732,
+          "label": "Including Overtime",
+          "englishLabel": "Including Overtime",
+          "order": [
+            
+          ],
+          "occurrenceType": "POINTS",
+          "lifetime": "FULL_TIME_OVERTIME"
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007708978,
+        "outcomes": [
+          {
+            "id": 2929873131,
+            "label": "Turgutlu Belediyespor (W)",
+            "englishLabel": "Turgutlu Belediyespor (W)",
+            "odds": 4100,
+            "participant": "Turgutlu Belediyespor (W)",
+            "type": "OT_ONE",
+            "betOfferId": 2267722172,
+            "changedDate": "2021-06-11T10:37:31Z",
+            "participantId": 1007706723,
+            "oddsFractional": "3/1",
+            "oddsAmerican": "310",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929873136,
+            "label": "Rize Belediyesi (W)",
+            "englishLabel": "Rize Belediyesi (W)",
+            "odds": 1220,
+            "participant": "Rize Belediyesi (W)",
+            "type": "OT_TWO",
+            "betOfferId": 2267722172,
+            "changedDate": "2021-06-11T10:37:31Z",
+            "participantId": 1007706724,
+            "oddsFractional": "11/50",
+            "oddsAmerican": "-455",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "ENABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007609739,
+        "name": "England - New Zealand",
+        "nameDelimiter": "-",
+        "englishName": "England - New Zealand",
+        "homeName": "England",
+        "awayName": "New Zealand",
+        "start": "2021-06-11T09:59:33Z",
+        "group": "Matches",
+        "groupId": 2000125178,
+        "path": [
+          {
+            "id": 1000093178,
+            "name": "Cricket",
+            "englishName": "Cricket",
+            "termKey": "cricket"
+          },
+          {
+            "id": 2000085729,
+            "name": "International Test Cricket",
+            "englishName": "International Test Cricket",
+            "termKey": "international_test_cricket"
+          },
+          {
+            "id": 2000125178,
+            "name": "Matches",
+            "englishName": "Matches",
+            "termKey": "matches"
+          }
+        ],
+        "nonLiveBoCount": 3,
+        "liveBoCount": 5,
+        "sport": "CRICKET",
+        "tags": [
+          "OPEN_FOR_LIVE",
+          "MATCH"
+        ],
+        "state": "STARTED",
+        "extraInfo": "2nd Test"
+      },
+      "liveData": {
+        "eventId": 1007609739,
+        "matchClock": {
+          "minute": 0,
+          "second": 0,
+          "minutesLeftInPeriod": 0,
+          "secondsLeftInMinute": 0,
+          "period": "1st half",
+          "running": false,
+          "disabled": true
+        },
+        "score": {
+          "home": "299",
+          "away": "9",
+          "info": " ENG Inngs 1: 299 - 9 after 99.4 overs. [ Day 2 Session 1 - Runs: 41 | Wickets: 2 ]",
+          "who": "UNKNOWN"
+        },
+        "liveStatistics": [
+          
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267159981,
+        "criterion": {
+          "id": 1001634748,
+          "label": "Draw No Bet - Match Odds",
+          "englishLabel": "Draw No Bet - Match Odds",
+          "order": [
+            
+          ]
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007609739,
+        "outcomes": [
+          {
+            "id": 2927979856,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 1300,
+            "participant": "England",
+            "type": "OT_ONE",
+            "betOfferId": 2267159981,
+            "changedDate": "2021-06-11T10:42:23Z",
+            "participantId": 1000000544,
+            "oddsFractional": "3/10",
+            "oddsAmerican": "-335",
+            "status": "OPEN",
+            "cashOutStatus": "DISABLED"
+          },
+          {
+            "id": 2927979857,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 3450,
+            "participant": "New Zealand",
+            "type": "OT_TWO",
+            "betOfferId": 2267159981,
+            "changedDate": "2021-06-11T10:42:23Z",
+            "participantId": 1000025324,
+            "oddsFractional": "49/20",
+            "oddsAmerican": "245",
+            "status": "OPEN",
+            "cashOutStatus": "DISABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_PREMATCH",
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "ENABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007715751,
+        "name": "ViCi Gaming - Team Spirit",
+        "nameDelimiter": "-",
+        "englishName": "ViCi Gaming - Team Spirit",
+        "homeName": "ViCi Gaming",
+        "awayName": "Team Spirit",
+        "start": "2021-06-11T09:02:06Z",
+        "group": "WePlay AniMajor",
+        "groupId": 2000130523,
+        "path": [
+          {
+            "id": 2000077768,
+            "name": "Esports",
+            "englishName": "Esports",
+            "termKey": "esports"
+          },
+          {
+            "id": 2000116235,
+            "name": "Dota 2",
+            "englishName": "Dota 2",
+            "termKey": "dota_2"
+          },
+          {
+            "id": 2000130523,
+            "name": "WePlay AniMajor",
+            "englishName": "WePlay AniMajor",
+            "termKey": "weplay_animajor"
+          }
+        ],
+        "nonLiveBoCount": 0,
+        "liveBoCount": 2,
+        "sport": "DOTA",
+        "tags": [
+          "OPEN_FOR_LIVE",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007715751,
+        "matchClock": {
+          "minute": 0,
+          "second": 0,
+          "minutesLeftInPeriod": 0,
+          "secondsLeftInMinute": 0,
+          "running": false,
+          "disabled": true
+        },
+        "score": {
+          "home": "1",
+          "away": "0",
+          "info": "Best of 3",
+          "who": "UNKNOWN"
+        },
+        "liveStatistics": [
+          
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267734695,
+        "suspended": true,
+        "criterion": {
+          "id": 1004708366,
+          "label": "Match Odds",
+          "englishLabel": "Match Odds",
+          "order": [
+            0
+          ]
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007715751,
+        "outcomes": [
+          {
+            "id": 2929840082,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 1120,
+            "type": "OT_ONE",
+            "betOfferId": 2267734695,
+            "changedDate": "2021-06-11T10:40:02Z",
+            "oddsFractional": "1/9",
+            "oddsAmerican": "-835",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929840084,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 5500,
+            "type": "OT_TWO",
+            "betOfferId": 2267734695,
+            "changedDate": "2021-06-11T10:40:02Z",
+            "oddsFractional": "9/2",
+            "oddsAmerican": "450",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "SUSPENDED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007681431,
+        "name": "Afreeca Freecs - Fredit BRION",
+        "nameDelimiter": "-",
+        "englishName": "Afreeca Freecs - Fredit BRION",
+        "homeName": "Afreeca Freecs",
+        "awayName": "Fredit BRION",
+        "start": "2021-06-11T08:01:40Z",
+        "group": "LCK",
+        "groupId": 2000117181,
+        "path": [
+          {
+            "id": 2000077768,
+            "name": "Esports",
+            "englishName": "Esports",
+            "termKey": "esports"
+          },
+          {
+            "id": 2000117177,
+            "name": "League of Legends",
+            "englishName": "League of Legends",
+            "termKey": "league_of_legends"
+          },
+          {
+            "id": 2000117181,
+            "name": "LCK",
+            "englishName": "LCK",
+            "termKey": "lck"
+          }
+        ],
+        "nonLiveBoCount": 0,
+        "liveBoCount": 1,
+        "sport": "LEAGUE_OF_LEGENDS",
+        "tags": [
+          "OPEN_FOR_LIVE",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007681431,
+        "matchClock": {
+          "minute": 0,
+          "second": 0,
+          "minutesLeftInPeriod": 0,
+          "secondsLeftInMinute": 0,
+          "running": false,
+          "disabled": true
+        },
+        "score": {
+          "home": "1",
+          "away": "1",
+          "info": "Best of 3",
+          "who": "UNKNOWN"
+        },
+        "liveStatistics": [
+          
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267733902,
+        "suspended": true,
+        "criterion": {
+          "id": 1004872214,
+          "label": "Match Odds",
+          "englishLabel": "Match Odds",
+          "order": [
+            0
+          ]
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007681431,
+        "outcomes": [
+          {
+            "id": 2929834712,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 1470,
+            "type": "OT_ONE",
+            "betOfferId": 2267733902,
+            "changedDate": "2021-06-11T10:39:01Z",
+            "oddsFractional": "4/9",
+            "oddsAmerican": "-215",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929834714,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 2550,
+            "type": "OT_TWO",
+            "betOfferId": 2267733902,
+            "changedDate": "2021-06-11T10:39:01Z",
+            "oddsFractional": "31/20",
+            "oddsAmerican": "155",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "SUSPENDED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007681758,
+        "name": "Bilibili Gaming - LNG Esports",
+        "nameDelimiter": "-",
+        "englishName": "Bilibili Gaming - LNG Esports",
+        "homeName": "Bilibili Gaming",
+        "awayName": "LNG Esports",
+        "start": "2021-06-11T09:00:00Z",
+        "group": "LPL",
+        "groupId": 2000118083,
+        "path": [
+          {
+            "id": 2000077768,
+            "name": "Esports",
+            "englishName": "Esports",
+            "termKey": "esports"
+          },
+          {
+            "id": 2000117177,
+            "name": "League of Legends",
+            "englishName": "League of Legends",
+            "termKey": "league_of_legends"
+          },
+          {
+            "id": 2000118083,
+            "name": "LPL",
+            "englishName": "LPL",
+            "termKey": "lpl"
+          }
+        ],
+        "nonLiveBoCount": 0,
+        "liveBoCount": 2,
+        "sport": "LEAGUE_OF_LEGENDS",
+        "tags": [
+          "OPEN_FOR_LIVE",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007681758,
+        "matchClock": {
+          "minute": 0,
+          "second": 0,
+          "minutesLeftInPeriod": 0,
+          "secondsLeftInMinute": 0,
+          "running": false,
+          "disabled": true
+        },
+        "score": {
+          "home": "0",
+          "away": "1",
+          "info": "Best of 3",
+          "who": "AWAY"
+        },
+        "liveStatistics": [
+          
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267739804,
+        "suspended": true,
+        "criterion": {
+          "id": 1004872214,
+          "label": "Match Odds",
+          "englishLabel": "Match Odds",
+          "order": [
+            0
+          ]
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007681758,
+        "outcomes": [
+          {
+            "id": 2929859309,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 1850,
+            "type": "OT_ONE",
+            "betOfferId": 2267739804,
+            "changedDate": "2021-06-11T10:40:37Z",
+            "oddsFractional": "17/20",
+            "oddsAmerican": "-118",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929859311,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 1850,
+            "type": "OT_TWO",
+            "betOfferId": 2267739804,
+            "changedDate": "2021-06-11T10:40:37Z",
+            "oddsFractional": "17/20",
+            "oddsAmerican": "-118",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "SUSPENDED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007710407,
+        "name": "Vihiga Bullets - Fortune Sacco",
+        "nameDelimiter": "-",
+        "englishName": "Vihiga Bullets - Fortune Sacco",
+        "homeName": "Vihiga Bullets",
+        "awayName": "Fortune Sacco",
+        "start": "2021-06-11T10:06:38Z",
+        "group": "Super League",
+        "groupId": 2000114293,
+        "path": [
+          {
+            "id": 1000093190,
+            "name": "Football",
+            "englishName": "Football",
+            "termKey": "football"
+          },
+          {
+            "id": 2000073085,
+            "name": "Kenya",
+            "englishName": "Kenya",
+            "termKey": "kenya"
+          },
+          {
+            "id": 2000114293,
+            "name": "Super League",
+            "englishName": "Super League",
+            "termKey": "super_league"
+          }
+        ],
+        "nonLiveBoCount": 13,
+        "liveBoCount": 33,
+        "sport": "FOOTBALL",
+        "tags": [
+          "OPEN_FOR_LIVE",
+          "BET_BUILDER",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007710407,
+        "matchClock": {
+          "minute": 36,
+          "second": 19,
+          "minutesLeftInPeriod": 8,
+          "secondsLeftInMinute": 41,
+          "period": "1st half",
+          "running": true
+        },
+        "score": {
+          "home": "0",
+          "away": "0",
+          "who": "UNKNOWN"
+        },
+        "statistics": {
+          "football": {
+            "home": {
+              "yellowCards": 0,
+              "redCards": 0,
+              "corners": 3
+            },
+            "away": {
+              "yellowCards": 0,
+              "redCards": 0,
+              "corners": 0
+            }
+          }
+        },
+        "liveStatistics": [
+          {
+            "occurrenceTypeId": "CORNERS_HOME",
+            "count": 3
+          }
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267664991,
+        "criterion": {
+          "id": 1001159858,
+          "label": "Full Time",
+          "englishLabel": "Full Time",
+          "order": [
+            
+          ],
+          "occurrenceType": "GOALS",
+          "lifetime": "FULL_TIME"
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007710407,
+        "outcomes": [
+          {
+            "id": 2929580840,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 2280,
+            "participant": "Vihiga Bullets",
+            "type": "OT_ONE",
+            "betOfferId": 2267664991,
+            "changedDate": "2021-06-11T10:41:46Z",
+            "participantId": 1005769885,
+            "oddsFractional": "5/4",
+            "oddsAmerican": "128",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929580848,
+            "label": "X",
+            "englishLabel": "X",
+            "odds": 2880,
+            "type": "OT_CROSS",
+            "betOfferId": 2267664991,
+            "changedDate": "2021-06-11T10:41:46Z",
+            "oddsFractional": "15/8",
+            "oddsAmerican": "188",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929580855,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 3400,
+            "participant": "Fortune Sacco",
+            "type": "OT_TWO",
+            "betOfferId": 2267664991,
+            "changedDate": "2021-06-11T10:41:46Z",
+            "participantId": 1005174035,
+            "oddsFractional": "12/5",
+            "oddsAmerican": "240",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_PREMATCH",
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "oddsStats": {
+          "unexpectedOddsTrend": false,
+          "outcomeId": 2929580840,
+          "startingOdds": 2000,
+          "startingOddsFractional": "Evens",
+          "startingOddsAmerican": "100"
+        },
+        "cashOutStatus": "ENABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007715494,
+        "name": "Villareal CF (Nikkitta) Esports - As Roma (White_Boy1927) Esports",
+        "nameDelimiter": "-",
+        "englishName": "Villareal CF (Nikkitta) Esports - As Roma (White_Boy1927) Esports",
+        "homeName": "Villareal CF (Nikkitta) Esports",
+        "awayName": "As Roma (White_Boy1927) Esports",
+        "start": "2021-06-11T10:42:17Z",
+        "group": "eSports Battle (2x4min)",
+        "groupId": 2000124080,
+        "path": [
+          {
+            "id": 1000093190,
+            "name": "Football",
+            "englishName": "Football",
+            "termKey": "football"
+          },
+          {
+            "id": 2000124075,
+            "name": "|Esports FIFA|",
+            "englishName": "|Esports FIFA|",
+            "termKey": "esports_fifa"
+          },
+          {
+            "id": 2000124080,
+            "name": "eSports Battle (2x4min)",
+            "englishName": "eSports Battle (2x4min)",
+            "termKey": "esports_battle__2x4min_"
+          }
+        ],
+        "nonLiveBoCount": 0,
+        "liveBoCount": 4,
+        "sport": "FOOTBALL",
+        "tags": [
+          "VISUALIZATION",
+          "OPEN_FOR_LIVE",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007715494,
+        "matchClock": {
+          "minute": 0,
+          "second": 43,
+          "minutesLeftInPeriod": 3,
+          "secondsLeftInMinute": 17,
+          "period": "1st half",
+          "running": true
+        },
+        "score": {
+          "home": "0",
+          "away": "0",
+          "who": "UNKNOWN"
+        },
+        "statistics": {
+          "football": {
+            "home": {
+              "yellowCards": 0,
+              "redCards": 0,
+              "corners": 0
+            },
+            "away": {
+              "yellowCards": 0,
+              "redCards": 0,
+              "corners": 0
+            }
+          }
+        },
+        "latestVisualization": {
+          "id": 25,
+          "eventId": 1007715494,
+          "occurrenceTypeId": "ATTACK_HOME",
+          "periodId": "FIRST_HALF",
+          "visualization": {
+            "position": {
+              "x": 56,
+              "y": 46
+            }
+          }
+        },
+        "liveStatistics": [
+          {
+            "occurrenceTypeId": "ATTACK_AWAY",
+            "count": 2
+          },
+          {
+            "occurrenceTypeId": "DANGEROUS_ATTACK_AWAY",
+            "count": 4
+          },
+          {
+            "occurrenceTypeId": "ATTACK_HOME",
+            "count": 3
+          }
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267722925,
+        "criterion": {
+          "id": 1001159858,
+          "label": "Full Time",
+          "englishLabel": "Full Time",
+          "order": [
+            
+          ],
+          "occurrenceType": "GOALS",
+          "lifetime": "FULL_TIME"
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007715494,
+        "outcomes": [
+          {
+            "id": 2929898430,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 3400,
+            "participant": "Villareal CF (Nikkitta) Esports",
+            "type": "OT_ONE",
+            "betOfferId": 2267722925,
+            "changedDate": "2021-06-11T10:42:50Z",
+            "participantId": 1007524316,
+            "oddsFractional": "12/5",
+            "oddsAmerican": "240",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929898432,
+            "label": "X",
+            "englishLabel": "X",
+            "odds": 3300,
+            "type": "OT_CROSS",
+            "betOfferId": 2267722925,
+            "changedDate": "2021-06-11T10:42:50Z",
+            "oddsFractional": "23/10",
+            "oddsAmerican": "230",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929898435,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 2020,
+            "participant": "As Roma (White_Boy1927) Esports",
+            "type": "OT_TWO",
+            "betOfferId": 2267722925,
+            "changedDate": "2021-06-11T10:42:50Z",
+            "participantId": 1007617070,
+            "oddsFractional": "Evens",
+            "oddsAmerican": "102",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "oddsStats": {
+          "unexpectedOddsTrend": false,
+          "outcomeId": 2929898435,
+          "startingOdds": 2040,
+          "startingOddsFractional": "26/25",
+          "startingOddsAmerican": "104"
+        },
+        "cashOutStatus": "ENABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007715468,
+        "name": "SL Benfica (Dangerdim77) Esports - Tsg 1899 Hoffenheim (plevis) Esports",
+        "nameDelimiter": "-",
+        "englishName": "SL Benfica (Dangerdim77) Esports - Tsg 1899 Hoffenheim (plevis) Esports",
+        "homeName": "SL Benfica (Dangerdim77) Esports",
+        "awayName": "Tsg 1899 Hoffenheim (plevis) Esports",
+        "start": "2021-06-11T10:42:36Z",
+        "group": "eSports Battle (2x4min)",
+        "groupId": 2000124080,
+        "path": [
+          {
+            "id": 1000093190,
+            "name": "Football",
+            "englishName": "Football",
+            "termKey": "football"
+          },
+          {
+            "id": 2000124075,
+            "name": "|Esports FIFA|",
+            "englishName": "|Esports FIFA|",
+            "termKey": "esports_fifa"
+          },
+          {
+            "id": 2000124080,
+            "name": "eSports Battle (2x4min)",
+            "englishName": "eSports Battle (2x4min)",
+            "termKey": "esports_battle__2x4min_"
+          }
+        ],
+        "nonLiveBoCount": 0,
+        "liveBoCount": 4,
+        "sport": "FOOTBALL",
+        "tags": [
+          "VISUALIZATION",
+          "OPEN_FOR_LIVE",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007715468,
+        "matchClock": {
+          "minute": 0,
+          "second": 20,
+          "minutesLeftInPeriod": 3,
+          "secondsLeftInMinute": 40,
+          "period": "1st half",
+          "running": true
+        },
+        "score": {
+          "home": "0",
+          "away": "0",
+          "who": "UNKNOWN"
+        },
+        "statistics": {
+          "football": {
+            "home": {
+              "yellowCards": 0,
+              "redCards": 0,
+              "corners": 0
+            },
+            "away": {
+              "yellowCards": 0,
+              "redCards": 0,
+              "corners": 0
+            }
+          }
+        },
+        "latestVisualization": {
+          "id": 9,
+          "eventId": 1007715468,
+          "occurrenceTypeId": "DANGEROUS_ATTACK_HOME",
+          "periodId": "FIRST_HALF",
+          "visualization": {
+            "position": {
+              "x": 75,
+              "y": 51
+            }
+          }
+        },
+        "liveStatistics": [
+          {
+            "occurrenceTypeId": "ATTACK_HOME",
+            "count": 1
+          },
+          {
+            "occurrenceTypeId": "DANGEROUS_ATTACK_HOME",
+            "count": 1
+          }
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267726792,
+        "criterion": {
+          "id": 1001159858,
+          "label": "Full Time",
+          "englishLabel": "Full Time",
+          "order": [
+            
+          ],
+          "occurrenceType": "GOALS",
+          "lifetime": "FULL_TIME"
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007715468,
+        "outcomes": [
+          {
+            "id": 2929865466,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 2950,
+            "participant": "SL Benfica (Dangerdim77) Esports",
+            "type": "OT_ONE",
+            "betOfferId": 2267726792,
+            "changedDate": "2021-06-11T10:40:13Z",
+            "participantId": 1007544199,
+            "oddsFractional": "39/20",
+            "oddsAmerican": "195",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929865469,
+            "label": "X",
+            "englishLabel": "X",
+            "odds": 2800,
+            "type": "OT_CROSS",
+            "betOfferId": 2267726792,
+            "changedDate": "2021-06-11T10:40:13Z",
+            "oddsFractional": "9/5",
+            "oddsAmerican": "180",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929865472,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 2550,
+            "participant": "Tsg 1899 Hoffenheim (plevis) Esports",
+            "type": "OT_TWO",
+            "betOfferId": 2267726792,
+            "changedDate": "2021-06-11T10:40:13Z",
+            "participantId": 1007576934,
+            "oddsFractional": "31/20",
+            "oddsAmerican": "155",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "oddsStats": {
+          "unexpectedOddsTrend": false,
+          "outcomeId": 2929865472,
+          "startingOdds": 2550,
+          "startingOddsFractional": "31/20",
+          "startingOddsAmerican": "155"
+        },
+        "cashOutStatus": "ENABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007715210,
+        "name": "Riera, V/Llaguno, P - Sainz, L/Gonzalez, B",
+        "nameDelimiter": "-",
+        "englishName": "Riera, V/Llaguno, P - Sainz, L/Gonzalez, B",
+        "homeName": "Riera, V/Llaguno, P",
+        "awayName": "Sainz, L/Gonzalez, B",
+        "start": "2021-06-11T09:16:31Z",
+        "group": "Marbella",
+        "groupId": 2000130624,
+        "path": [
+          {
+            "id": 2000130589,
+            "name": "Padel",
+            "englishName": "Padel",
+            "termKey": "padel"
+          },
+          {
+            "id": 2000130591,
+            "name": "World Padel Tennis Tour Women",
+            "englishName": "World Padel Tennis Tour Women",
+            "termKey": "world_padel_tennis_tour_women"
+          },
+          {
+            "id": 2000130624,
+            "name": "Marbella",
+            "englishName": "Marbella",
+            "termKey": "marbella"
+          }
+        ],
+        "nonLiveBoCount": 0,
+        "liveBoCount": 33,
+        "sport": "TENNIS",
+        "tags": [
+          "OPEN_FOR_LIVE",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007715210,
+        "matchClock": {
+          "minute": 86,
+          "second": 26,
+          "running": true
+        },
+        "score": {
+          "home": "0",
+          "away": "30",
+          "who": "AWAY"
+        },
+        "statistics": {
+          "sets": {
+            "home": [
+              4,
+              5,
+              -1
+            ],
+            "away": [
+              6,
+              4,
+              -1
+            ],
+            "homeServe": false
+          }
+        },
+        "liveStatistics": [
+          
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267690276,
+        "suspended": true,
+        "criterion": {
+          "id": 1001159551,
+          "label": "Match Odds",
+          "englishLabel": "Match Odds",
+          "order": [
+            0
+          ]
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007715210,
+        "outcomes": [
+          {
+            "id": 2929698382,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 2850,
+            "type": "OT_ONE",
+            "betOfferId": 2267690276,
+            "changedDate": "2021-06-10T19:05:09Z",
+            "oddsFractional": "37/20",
+            "oddsAmerican": "185",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929698384,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 1400,
+            "type": "OT_TWO",
+            "betOfferId": 2267690276,
+            "changedDate": "2021-06-10T19:05:09Z",
+            "oddsFractional": "2/5",
+            "oddsAmerican": "-250",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_PREMATCH",
+          "OFFERED_LIVE",
+          "MAIN"
+        ],
+        "cashOutStatus": "DISABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007714026,
+        "name": "Begemann, A/Brown, D - Gonzalez, Max/Molteni, A",
+        "nameDelimiter": "-",
+        "englishName": "Begemann, A/Brown, D - Gonzalez, Max/Molteni, A",
+        "homeName": "Begemann, A/Brown, D",
+        "awayName": "Gonzalez, Max/Molteni, A",
+        "start": "2021-06-11T10:33:32Z",
+        "group": "Stuttgart",
+        "groupId": 2000070528,
+        "path": [
+          {
+            "id": 1000093193,
+            "name": "Tennis",
+            "englishName": "Tennis",
+            "termKey": "tennis"
+          },
+          {
+            "id": 2000070472,
+            "name": "ATP Doubles",
+            "englishName": "ATP Doubles",
+            "termKey": "atp_doubles"
+          },
+          {
+            "id": 2000070528,
+            "name": "Stuttgart",
+            "englishName": "Stuttgart",
+            "termKey": "stuttgart"
+          }
+        ],
+        "nonLiveBoCount": 1,
+        "liveBoCount": 33,
+        "sport": "TENNIS",
+        "tags": [
+          "VISUALIZATION",
+          "OPEN_FOR_LIVE",
+          "PREMATCH_STATS",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007714026,
+        "matchClock": {
+          "minute": 9,
+          "second": 25,
+          "running": true
+        },
+        "score": {
+          "home": "0",
+          "away": "40",
+          "who": "AWAY"
+        },
+        "statistics": {
+          "sets": {
+            "home": [
+              0,
+              -1,
+              -1
+            ],
+            "away": [
+              1,
+              -1,
+              -1
+            ],
+            "homeServe": false
+          }
+        },
+        "liveStatistics": [
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_AWAY",
+            "count": 33
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_HOME",
+            "count": 67
+          },
+          {
+            "occurrenceTypeId": "ACES_WON_AWAY",
+            "count": 1
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_AWAY",
+            "count": 100
+          }
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267700114,
+        "criterion": {
+          "id": 1001159551,
+          "label": "Match Odds",
+          "englishLabel": "Match Odds",
+          "order": [
+            0
+          ]
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007714026,
+        "outcomes": [
+          {
+            "id": 2929722226,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 3050,
+            "type": "OT_ONE",
+            "betOfferId": 2267700114,
+            "changedDate": "2021-06-11T10:42:48Z",
+            "oddsFractional": "41/20",
+            "oddsAmerican": "205",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929722228,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 1330,
+            "type": "OT_TWO",
+            "betOfferId": 2267700114,
+            "changedDate": "2021-06-11T10:42:48Z",
+            "oddsFractional": "33/100",
+            "oddsAmerican": "-305",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_PREMATCH",
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "ENABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007714213,
+        "name": "Lammons, N/Withrow, J - Ebden, M/Smith, J-P",
+        "nameDelimiter": "-",
+        "englishName": "Lammons, N/Withrow, J - Ebden, M/Smith, J-P",
+        "homeName": "Lammons, N/Withrow, J",
+        "awayName": "Ebden, M/Smith, J-P",
+        "start": "2021-06-11T10:09:46Z",
+        "group": "Nottingham",
+        "groupId": 2000074632,
+        "path": [
+          {
+            "id": 1000093193,
+            "name": "Tennis",
+            "englishName": "Tennis",
+            "termKey": "tennis"
+          },
+          {
+            "id": 2000070864,
+            "name": "Challenger Doubles",
+            "englishName": "Challenger Doubles",
+            "termKey": "challenger_doubles"
+          },
+          {
+            "id": 2000074632,
+            "name": "Nottingham",
+            "englishName": "Nottingham",
+            "termKey": "nottingham"
+          }
+        ],
+        "nonLiveBoCount": 0,
+        "liveBoCount": 33,
+        "sport": "TENNIS",
+        "tags": [
+          "VISUALIZATION",
+          "OPEN_FOR_LIVE",
+          "PREMATCH_STATS",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007714213,
+        "matchClock": {
+          "minute": 33,
+          "second": 11,
+          "running": true
+        },
+        "score": {
+          "home": "0",
+          "away": "15",
+          "who": "AWAY"
+        },
+        "statistics": {
+          "sets": {
+            "home": [
+              4,
+              -1,
+              -1
+            ],
+            "away": [
+              4,
+              -1,
+              -1
+            ],
+            "homeServe": true
+          }
+        },
+        "liveStatistics": [
+          {
+            "occurrenceTypeId": "ACES_WON_HOME",
+            "count": 1
+          },
+          {
+            "occurrenceTypeId": "DOUBLE_FAULTS_HOME",
+            "count": 2
+          },
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_HOME",
+            "count": 50
+          },
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_AWAY",
+            "count": 20
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_HOME",
+            "count": 69
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_AWAY",
+            "count": 65
+          }
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267751772,
+        "criterion": {
+          "id": 1001159551,
+          "label": "Match Odds",
+          "englishLabel": "Match Odds",
+          "order": [
+            0
+          ]
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007714213,
+        "outcomes": [
+          {
+            "id": 2929890593,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 2280,
+            "type": "OT_ONE",
+            "betOfferId": 2267751772,
+            "changedDate": "2021-06-11T10:42:55Z",
+            "oddsFractional": "5/4",
+            "oddsAmerican": "128",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929890595,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 1570,
+            "type": "OT_TWO",
+            "betOfferId": 2267751772,
+            "changedDate": "2021-06-11T10:42:55Z",
+            "oddsFractional": "11/20",
+            "oddsAmerican": "-177",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "ENABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007713830,
+        "name": "Bagnis, Facundo - Stebe, Cedrik-Marcel",
+        "nameDelimiter": "-",
+        "englishName": "Bagnis, Facundo - Stebe, Cedrik-Marcel",
+        "homeName": "Bagnis, Facundo",
+        "awayName": "Stebe, Cedrik-Marcel",
+        "start": "2021-06-11T09:06:01Z",
+        "group": "Lyon",
+        "groupId": 2000093551,
+        "path": [
+          {
+            "id": 1000093193,
+            "name": "Tennis",
+            "englishName": "Tennis",
+            "termKey": "tennis"
+          },
+          {
+            "id": 1000093377,
+            "name": "Challenger",
+            "englishName": "Challenger",
+            "termKey": "challenger"
+          },
+          {
+            "id": 2000093551,
+            "name": "Lyon",
+            "englishName": "Lyon",
+            "termKey": "lyon"
+          }
+        ],
+        "nonLiveBoCount": 6,
+        "liveBoCount": 36,
+        "sport": "TENNIS",
+        "tags": [
+          "VISUALIZATION",
+          "OPEN_FOR_LIVE",
+          "PREMATCH_STATS",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007713830,
+        "matchClock": {
+          "minute": 96,
+          "second": 56,
+          "running": true
+        },
+        "score": {
+          "home": "0",
+          "away": "0",
+          "who": "UNKNOWN"
+        },
+        "statistics": {
+          "sets": {
+            "home": [
+              6,
+              5,
+              -1
+            ],
+            "away": [
+              3,
+              5,
+              -1
+            ],
+            "homeServe": false
+          }
+        },
+        "liveStatistics": [
+          {
+            "occurrenceTypeId": "DOUBLE_FAULTS_AWAY",
+            "count": 2
+          },
+          {
+            "occurrenceTypeId": "ACES_WON_HOME",
+            "count": 2
+          },
+          {
+            "occurrenceTypeId": "ACES_WON_AWAY",
+            "count": 1
+          },
+          {
+            "occurrenceTypeId": "DOUBLE_FAULTS_HOME",
+            "count": 1
+          },
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_HOME",
+            "count": 22
+          },
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_AWAY",
+            "count": 33
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_HOME",
+            "count": 70
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_AWAY",
+            "count": 60
+          }
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267699558,
+        "criterion": {
+          "id": 1001159551,
+          "label": "Match Odds",
+          "englishLabel": "Match Odds",
+          "order": [
+            0
+          ]
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007713830,
+        "outcomes": [
+          {
+            "id": 2929720451,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 1140,
+            "type": "OT_ONE",
+            "betOfferId": 2267699558,
+            "changedDate": "2021-06-11T10:42:15Z",
+            "oddsFractional": "2/15",
+            "oddsAmerican": "-715",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929720457,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 5400,
+            "type": "OT_TWO",
+            "betOfferId": 2267699558,
+            "changedDate": "2021-06-11T10:42:15Z",
+            "oddsFractional": "22/5",
+            "oddsAmerican": "440",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_PREMATCH",
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "ENABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007714028,
+        "name": "Ehrat, Sandro - Wenger, Damien",
+        "nameDelimiter": "-",
+        "englishName": "Ehrat, Sandro - Wenger, Damien",
+        "homeName": "Ehrat, Sandro",
+        "awayName": "Wenger, Damien",
+        "start": "2021-06-11T09:40:00Z",
+        "group": "Antalya",
+        "groupId": 2000117964,
+        "path": [
+          {
+            "id": 1000093193,
+            "name": "Tennis",
+            "englishName": "Tennis",
+            "termKey": "tennis"
+          },
+          {
+            "id": 2000054086,
+            "name": "ITF Men",
+            "englishName": "ITF Men",
+            "termKey": "itf_men"
+          },
+          {
+            "id": 2000117964,
+            "name": "Antalya",
+            "englishName": "Antalya",
+            "termKey": "antalya"
+          }
+        ],
+        "nonLiveBoCount": 1,
+        "liveBoCount": 14,
+        "sport": "TENNIS",
+        "tags": [
+          "VISUALIZATION",
+          "OPEN_FOR_LIVE",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007714028,
+        "matchClock": {
+          "minute": 61,
+          "second": 19,
+          "running": true
+        },
+        "score": {
+          "home": "0",
+          "away": "0",
+          "who": "UNKNOWN"
+        },
+        "statistics": {
+          "sets": {
+            "home": [
+              6,
+              0,
+              -1
+            ],
+            "away": [
+              4,
+              0,
+              -1
+            ],
+            "homeServe": false
+          }
+        },
+        "liveStatistics": [
+          {
+            "occurrenceTypeId": "DOUBLE_FAULTS_AWAY",
+            "count": 2
+          },
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_HOME",
+            "count": 100
+          },
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_AWAY",
+            "count": 50
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_HOME",
+            "count": 67
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_AWAY",
+            "count": 50
+          }
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267713262,
+        "criterion": {
+          "id": 1001159551,
+          "label": "Match Odds",
+          "englishLabel": "Match Odds",
+          "order": [
+            0
+          ]
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007714028,
+        "outcomes": [
+          {
+            "id": 2929775907,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 1130,
+            "type": "OT_ONE",
+            "betOfferId": 2267713262,
+            "changedDate": "2021-06-11T10:42:24Z",
+            "oddsFractional": "1/8",
+            "oddsAmerican": "-770",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929775909,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 5600,
+            "type": "OT_TWO",
+            "betOfferId": 2267713262,
+            "changedDate": "2021-06-11T10:42:24Z",
+            "oddsFractional": "23/5",
+            "oddsAmerican": "460",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_PREMATCH",
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "ENABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007714029,
+        "name": "Bega, Alessandro - Kivattsev, Kirill",
+        "nameDelimiter": "-",
+        "englishName": "Bega, Alessandro - Kivattsev, Kirill",
+        "homeName": "Bega, Alessandro",
+        "awayName": "Kivattsev, Kirill",
+        "start": "2021-06-11T09:17:44Z",
+        "group": "Gaiba",
+        "groupId": 2000130603,
+        "path": [
+          {
+            "id": 1000093193,
+            "name": "Tennis",
+            "englishName": "Tennis",
+            "termKey": "tennis"
+          },
+          {
+            "id": 2000054086,
+            "name": "ITF Men",
+            "englishName": "ITF Men",
+            "termKey": "itf_men"
+          },
+          {
+            "id": 2000130603,
+            "name": "Gaiba",
+            "englishName": "Gaiba",
+            "termKey": "gaiba"
+          }
+        ],
+        "nonLiveBoCount": 1,
+        "liveBoCount": 35,
+        "sport": "TENNIS",
+        "tags": [
+          "VISUALIZATION",
+          "OPEN_FOR_LIVE",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007714029,
+        "matchClock": {
+          "minute": 85,
+          "second": 12,
+          "running": true
+        },
+        "score": {
+          "home": "0",
+          "away": "15",
+          "who": "AWAY"
+        },
+        "statistics": {
+          "sets": {
+            "home": [
+              6,
+              1,
+              -1
+            ],
+            "away": [
+              7,
+              2,
+              -1
+            ],
+            "homeServe": false
+          }
+        },
+        "liveStatistics": [
+          {
+            "occurrenceTypeId": "DOUBLE_FAULTS_AWAY",
+            "count": 2
+          },
+          {
+            "occurrenceTypeId": "ACES_WON_AWAY",
+            "count": 4
+          },
+          {
+            "occurrenceTypeId": "DOUBLE_FAULTS_HOME",
+            "count": 3
+          },
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_HOME",
+            "count": 30
+          },
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_AWAY",
+            "count": 43
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_AWAY",
+            "count": 60
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_HOME",
+            "count": 51
+          }
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267713304,
+        "criterion": {
+          "id": 1001159551,
+          "label": "Match Odds",
+          "englishLabel": "Match Odds",
+          "order": [
+            0
+          ]
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007714029,
+        "outcomes": [
+          {
+            "id": 2929776043,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 4750,
+            "type": "OT_ONE",
+            "betOfferId": 2267713304,
+            "changedDate": "2021-06-11T10:42:40Z",
+            "oddsFractional": "15/4",
+            "oddsAmerican": "375",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929776045,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 1160,
+            "type": "OT_TWO",
+            "betOfferId": 2267713304,
+            "changedDate": "2021-06-11T10:42:40Z",
+            "oddsFractional": "2/13",
+            "oddsAmerican": "-625",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_PREMATCH",
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "ENABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007714996,
+        "name": "Lock, Benjamin - Simon, Tobias",
+        "nameDelimiter": "-",
+        "englishName": "Lock, Benjamin - Simon, Tobias",
+        "homeName": "Lock, Benjamin",
+        "awayName": "Simon, Tobias",
+        "start": "2021-06-11T10:42:27Z",
+        "group": "Gaiba",
+        "groupId": 2000130603,
+        "path": [
+          {
+            "id": 1000093193,
+            "name": "Tennis",
+            "englishName": "Tennis",
+            "termKey": "tennis"
+          },
+          {
+            "id": 2000054086,
+            "name": "ITF Men",
+            "englishName": "ITF Men",
+            "termKey": "itf_men"
+          },
+          {
+            "id": 2000130603,
+            "name": "Gaiba",
+            "englishName": "Gaiba",
+            "termKey": "gaiba"
+          }
+        ],
+        "nonLiveBoCount": 1,
+        "liveBoCount": 40,
+        "sport": "TENNIS",
+        "tags": [
+          "VISUALIZATION",
+          "OPEN_FOR_LIVE",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007714996,
+        "matchClock": {
+          "minute": 0,
+          "second": 30,
+          "running": true
+        },
+        "score": {
+          "home": "0",
+          "away": "0",
+          "who": "UNKNOWN"
+        },
+        "statistics": {
+          "sets": {
+            "home": [
+              1,
+              -1,
+              -1
+            ],
+            "away": [
+              0,
+              -1,
+              -1
+            ],
+            "homeServe": false
+          }
+        },
+        "liveStatistics": [
+          {
+            "occurrenceTypeId": "ACES_WON_HOME",
+            "count": 1
+          },
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_HOME",
+            "count": 100
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_AWAY",
+            "count": 0
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_HOME",
+            "count": 100
+          }
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267713305,
+        "criterion": {
+          "id": 1001159551,
+          "label": "Match Odds",
+          "englishLabel": "Match Odds",
+          "order": [
+            0
+          ]
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007714996,
+        "outcomes": [
+          {
+            "id": 2929776046,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 1840,
+            "type": "OT_ONE",
+            "betOfferId": 2267713305,
+            "changedDate": "2021-06-11T10:42:52Z",
+            "oddsFractional": "5/6",
+            "oddsAmerican": "-120",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929776048,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 1880,
+            "type": "OT_TWO",
+            "betOfferId": 2267713305,
+            "changedDate": "2021-06-11T10:42:52Z",
+            "oddsFractional": "22/25",
+            "oddsAmerican": "-114",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_PREMATCH",
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "ENABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007714035,
+        "name": "Mochizuki, Yuki - Hussey, Giles",
+        "nameDelimiter": "-",
+        "englishName": "Mochizuki, Yuki - Hussey, Giles",
+        "homeName": "Mochizuki, Yuki",
+        "awayName": "Hussey, Giles",
+        "start": "2021-06-11T09:05:00Z",
+        "group": "Heraklion",
+        "groupId": 2000119334,
+        "path": [
+          {
+            "id": 1000093193,
+            "name": "Tennis",
+            "englishName": "Tennis",
+            "termKey": "tennis"
+          },
+          {
+            "id": 2000054086,
+            "name": "ITF Men",
+            "englishName": "ITF Men",
+            "termKey": "itf_men"
+          },
+          {
+            "id": 2000119334,
+            "name": "Heraklion",
+            "englishName": "Heraklion",
+            "termKey": "heraklion"
+          }
+        ],
+        "nonLiveBoCount": 1,
+        "liveBoCount": 22,
+        "sport": "TENNIS",
+        "tags": [
+          "VISUALIZATION",
+          "OPEN_FOR_LIVE",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007714035,
+        "matchClock": {
+          "minute": 101,
+          "second": 16,
+          "running": true
+        },
+        "score": {
+          "home": "30",
+          "away": "15",
+          "who": "AWAY"
+        },
+        "statistics": {
+          "sets": {
+            "home": [
+              3,
+              6,
+              1
+            ],
+            "away": [
+              6,
+              2,
+              1
+            ],
+            "homeServe": false
+          }
+        },
+        "liveStatistics": [
+          {
+            "occurrenceTypeId": "DOUBLE_FAULTS_HOME",
+            "count": 1
+          },
+          {
+            "occurrenceTypeId": "ACES_WON_HOME",
+            "count": 1
+          },
+          {
+            "occurrenceTypeId": "DOUBLE_FAULTS_AWAY",
+            "count": 4
+          },
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_HOME",
+            "count": 58
+          },
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_AWAY",
+            "count": 67
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_AWAY",
+            "count": 51
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_HOME",
+            "count": 63
+          }
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267713312,
+        "criterion": {
+          "id": 1001159551,
+          "label": "Match Odds",
+          "englishLabel": "Match Odds",
+          "order": [
+            0
+          ]
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007714035,
+        "outcomes": [
+          {
+            "id": 2929776138,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 1260,
+            "type": "OT_ONE",
+            "betOfferId": 2267713312,
+            "changedDate": "2021-06-11T10:42:36Z",
+            "oddsFractional": "1/4",
+            "oddsAmerican": "-385",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929776140,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 3550,
+            "type": "OT_TWO",
+            "betOfferId": 2267713312,
+            "changedDate": "2021-06-11T10:42:36Z",
+            "oddsFractional": "5/2",
+            "oddsAmerican": "255",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_PREMATCH",
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "ENABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007714027,
+        "name": "Juhaszova, V/Ondrejcekova, K - Bilardo, F/Ng, Taylor",
+        "nameDelimiter": "-",
+        "englishName": "Juhaszova, V/Ondrejcekova, K - Bilardo, F/Ng, Taylor",
+        "homeName": "Juhaszova, V/Ondrejcekova, K",
+        "awayName": "Bilardo, F/Ng, Taylor",
+        "start": "2021-06-11T10:06:22Z",
+        "group": "Antalya",
+        "groupId": 2000071320,
+        "path": [
+          {
+            "id": 1000093193,
+            "name": "Tennis",
+            "englishName": "Tennis",
+            "termKey": "tennis"
+          },
+          {
+            "id": 2000071266,
+            "name": "ITF Women Doubles",
+            "englishName": "ITF Women Doubles",
+            "termKey": "itf_women_doubles"
+          },
+          {
+            "id": 2000071320,
+            "name": "Antalya",
+            "englishName": "Antalya",
+            "termKey": "antalya"
+          }
+        ],
+        "nonLiveBoCount": 0,
+        "liveBoCount": 12,
+        "sport": "TENNIS",
+        "tags": [
+          "VISUALIZATION",
+          "OPEN_FOR_LIVE",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007714027,
+        "matchClock": {
+          "minute": 36,
+          "second": 35,
+          "running": true
+        },
+        "score": {
+          "home": "30",
+          "away": "40",
+          "who": "AWAY"
+        },
+        "statistics": {
+          "sets": {
+            "home": [
+              4,
+              -1,
+              -1
+            ],
+            "away": [
+              4,
+              -1,
+              -1
+            ],
+            "homeServe": false
+          }
+        },
+        "liveStatistics": [
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_HOME",
+            "count": 100
+          },
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_AWAY",
+            "count": 75
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_HOME",
+            "count": 44
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_AWAY",
+            "count": 59
+          }
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267752113,
+        "criterion": {
+          "id": 1001159551,
+          "label": "Match Odds",
+          "englishLabel": "Match Odds",
+          "order": [
+            0
+          ]
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007714027,
+        "outcomes": [
+          {
+            "id": 2929891739,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 4300,
+            "type": "OT_ONE",
+            "betOfferId": 2267752113,
+            "changedDate": "2021-06-11T10:42:43Z",
+            "oddsFractional": "33/10",
+            "oddsAmerican": "330",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929891741,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 1190,
+            "type": "OT_TWO",
+            "betOfferId": 2267752113,
+            "changedDate": "2021-06-11T10:42:43Z",
+            "oddsFractional": "2/11",
+            "oddsAmerican": "-530",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "ENABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007713829,
+        "name": "Colmegna, Martina - Portillo Ramirez, Maria Jose",
+        "nameDelimiter": "-",
+        "englishName": "Colmegna, Martina - Portillo Ramirez, Maria Jose",
+        "homeName": "Colmegna, Martina",
+        "awayName": "Portillo Ramirez, Maria Jose",
+        "start": "2021-06-11T09:59:58Z",
+        "group": "Heraklion",
+        "groupId": 2000057668,
+        "path": [
+          {
+            "id": 1000093193,
+            "name": "Tennis",
+            "englishName": "Tennis",
+            "termKey": "tennis"
+          },
+          {
+            "id": 1000462066,
+            "name": "ITF Women",
+            "englishName": "ITF Women",
+            "termKey": "itf_women"
+          },
+          {
+            "id": 2000057668,
+            "name": "Heraklion",
+            "englishName": "Heraklion",
+            "termKey": "heraklion"
+          }
+        ],
+        "nonLiveBoCount": 1,
+        "liveBoCount": 27,
+        "sport": "TENNIS",
+        "tags": [
+          "VISUALIZATION",
+          "OPEN_FOR_LIVE",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007713829,
+        "matchClock": {
+          "minute": 42,
+          "second": 58,
+          "running": true
+        },
+        "score": {
+          "home": "15",
+          "away": "0",
+          "who": "HOME"
+        },
+        "statistics": {
+          "sets": {
+            "home": [
+              1,
+              3,
+              -1
+            ],
+            "away": [
+              6,
+              5,
+              -1
+            ],
+            "homeServe": true
+          }
+        },
+        "liveStatistics": [
+          {
+            "occurrenceTypeId": "DOUBLE_FAULTS_AWAY",
+            "count": 1
+          },
+          {
+            "occurrenceTypeId": "DOUBLE_FAULTS_HOME",
+            "count": 1
+          },
+          {
+            "occurrenceTypeId": "ACES_WON_AWAY",
+            "count": 1
+          },
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_HOME",
+            "count": 50
+          },
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_AWAY",
+            "count": 71
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_HOME",
+            "count": 36
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_AWAY",
+            "count": 64
+          }
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267713404,
+        "criterion": {
+          "id": 1001159551,
+          "label": "Match Odds",
+          "englishLabel": "Match Odds",
+          "order": [
+            0
+          ]
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007713829,
+        "outcomes": [
+          {
+            "id": 2929776371,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 15000,
+            "type": "OT_ONE",
+            "betOfferId": 2267713404,
+            "changedDate": "2021-06-11T10:42:40Z",
+            "oddsFractional": "14/1",
+            "oddsAmerican": "1400",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929776373,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 1020,
+            "type": "OT_TWO",
+            "betOfferId": 2267713404,
+            "changedDate": "2021-06-11T10:42:40Z",
+            "oddsFractional": "1/50",
+            "oddsAmerican": "-5000",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_PREMATCH",
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "ENABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007714216,
+        "name": "Hesse, Amandine - Kulikova, Anastasia",
+        "nameDelimiter": "-",
+        "englishName": "Hesse, Amandine - Kulikova, Anastasia",
+        "homeName": "Hesse, Amandine",
+        "awayName": "Kulikova, Anastasia",
+        "start": "2021-06-11T09:42:01Z",
+        "group": "Madrid",
+        "groupId": 2000056116,
+        "path": [
+          {
+            "id": 1000093193,
+            "name": "Tennis",
+            "englishName": "Tennis",
+            "termKey": "tennis"
+          },
+          {
+            "id": 1000462066,
+            "name": "ITF Women",
+            "englishName": "ITF Women",
+            "termKey": "itf_women"
+          },
+          {
+            "id": 2000056116,
+            "name": "Madrid",
+            "englishName": "Madrid",
+            "termKey": "madrid"
+          }
+        ],
+        "nonLiveBoCount": 0,
+        "liveBoCount": 37,
+        "sport": "TENNIS",
+        "tags": [
+          "VISUALIZATION",
+          "OPEN_FOR_LIVE",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007714216,
+        "matchClock": {
+          "minute": 60,
+          "second": 56,
+          "running": true
+        },
+        "score": {
+          "home": "0",
+          "away": "0",
+          "who": "UNKNOWN"
+        },
+        "statistics": {
+          "sets": {
+            "home": [
+              3,
+              2,
+              -1
+            ],
+            "away": [
+              6,
+              1,
+              -1
+            ],
+            "homeServe": false
+          }
+        },
+        "liveStatistics": [
+          {
+            "occurrenceTypeId": "DOUBLE_FAULTS_HOME",
+            "count": 2
+          },
+          {
+            "occurrenceTypeId": "ACES_WON_HOME",
+            "count": 4
+          },
+          {
+            "occurrenceTypeId": "ACES_WON_AWAY",
+            "count": 3
+          },
+          {
+            "occurrenceTypeId": "DOUBLE_FAULTS_AWAY",
+            "count": 3
+          },
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_HOME",
+            "count": 75
+          },
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_AWAY",
+            "count": 44
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_HOME",
+            "count": 59
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_AWAY",
+            "count": 68
+          }
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267748934,
+        "criterion": {
+          "id": 1001159551,
+          "label": "Match Odds",
+          "englishLabel": "Match Odds",
+          "order": [
+            0
+          ]
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007714216,
+        "outcomes": [
+          {
+            "id": 2929877950,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 2800,
+            "type": "OT_ONE",
+            "betOfferId": 2267748934,
+            "changedDate": "2021-06-11T10:41:47Z",
+            "oddsFractional": "9/5",
+            "oddsAmerican": "180",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929877952,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 1400,
+            "type": "OT_TWO",
+            "betOfferId": 2267748934,
+            "changedDate": "2021-06-11T10:41:47Z",
+            "oddsFractional": "2/5",
+            "oddsAmerican": "-250",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "ENABLED"
+      }
+    },
+    {
+      "event": {
+        "id": 1007713905,
+        "name": "Alhussein Abdel Aziz, Lamis - Hewitt, Dalayna",
+        "nameDelimiter": "-",
+        "englishName": "Alhussein Abdel Aziz, Lamis - Hewitt, Dalayna",
+        "homeName": "Alhussein Abdel Aziz, Lamis",
+        "awayName": "Hewitt, Dalayna",
+        "start": "2021-06-11T08:31:28Z",
+        "group": "Monastir",
+        "groupId": 2000056631,
+        "path": [
+          {
+            "id": 1000093193,
+            "name": "Tennis",
+            "englishName": "Tennis",
+            "termKey": "tennis"
+          },
+          {
+            "id": 1000462066,
+            "name": "ITF Women",
+            "englishName": "ITF Women",
+            "termKey": "itf_women"
+          },
+          {
+            "id": 2000056631,
+            "name": "Monastir",
+            "englishName": "Monastir",
+            "termKey": "monastir"
+          }
+        ],
+        "nonLiveBoCount": 0,
+        "sport": "TENNIS",
+        "tags": [
+          "VISUALIZATION",
+          "OPEN_FOR_LIVE",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007713905,
+        "matchClock": {
+          "minute": 131,
+          "second": 13,
+          "running": false
+        },
+        "score": {
+          "home": "0",
+          "away": "0",
+          "who": "UNKNOWN"
+        },
+        "statistics": {
+          "sets": {
+            "home": [
+              7,
+              6,
+              0
+            ],
+            "away": [
+              6,
+              4,
+              0
+            ],
+            "homeServe": false
+          }
+        },
+        "liveStatistics": [
+          {
+            "occurrenceTypeId": "ACES_WON_HOME",
+            "count": 3
+          },
+          {
+            "occurrenceTypeId": "ACES_WON_AWAY",
+            "count": 3
+          },
+          {
+            "occurrenceTypeId": "DOUBLE_FAULTS_AWAY",
+            "count": 7
+          },
+          {
+            "occurrenceTypeId": "DOUBLE_FAULTS_HOME",
+            "count": 3
+          },
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_HOME",
+            "count": 70
+          },
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_AWAY",
+            "count": 42
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_HOME",
+            "count": 51
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_AWAY",
+            "count": 49
+          }
+        ]
+      }
+    },
+    {
+      "event": {
+        "id": 1007714269,
+        "name": "Grammatikopoulou, Valentini - Haddad Maia, Beatriz",
+        "nameDelimiter": "-",
+        "englishName": "Grammatikopoulou, Valentini - Haddad Maia, Beatriz",
+        "homeName": "Grammatikopoulou, Valentini",
+        "awayName": "Haddad Maia, Beatriz",
+        "start": "2021-06-11T09:02:56Z",
+        "group": "Montemor-O-Novo",
+        "groupId": 2000105656,
+        "path": [
+          {
+            "id": 1000093193,
+            "name": "Tennis",
+            "englishName": "Tennis",
+            "termKey": "tennis"
+          },
+          {
+            "id": 1000462066,
+            "name": "ITF Women",
+            "englishName": "ITF Women",
+            "termKey": "itf_women"
+          },
+          {
+            "id": 2000105656,
+            "name": "Montemor-O-Novo",
+            "englishName": "Montemor-O-Novo",
+            "termKey": "montemor-o-novo"
+          }
+        ],
+        "nonLiveBoCount": 1,
+        "liveBoCount": 30,
+        "sport": "TENNIS",
+        "tags": [
+          "VISUALIZATION",
+          "OPEN_FOR_LIVE",
+          "MATCH"
+        ],
+        "state": "STARTED"
+      },
+      "liveData": {
+        "eventId": 1007714269,
+        "matchClock": {
+          "minute": 100,
+          "second": 1,
+          "running": true
+        },
+        "score": {
+          "home": "0",
+          "away": "0",
+          "who": "UNKNOWN"
+        },
+        "statistics": {
+          "sets": {
+            "home": [
+              1,
+              5,
+              -1
+            ],
+            "away": [
+              6,
+              6,
+              -1
+            ],
+            "homeServe": true
+          }
+        },
+        "liveStatistics": [
+          {
+            "occurrenceTypeId": "ACES_WON_HOME",
+            "count": 1
+          },
+          {
+            "occurrenceTypeId": "DOUBLE_FAULTS_AWAY",
+            "count": 4
+          },
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_HOME",
+            "count": 60
+          },
+          {
+            "occurrenceTypeId": "BREAK_POINT_CONVERSION_AWAY",
+            "count": 50
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_HOME",
+            "count": 48
+          },
+          {
+            "occurrenceTypeId": "FIRST_SERVE_WINNING_AWAY",
+            "count": 63
+          }
+        ]
+      },
+      "mainBetOffer": {
+        "id": 2267716480,
+        "criterion": {
+          "id": 1001159551,
+          "label": "Match Odds",
+          "englishLabel": "Match Odds",
+          "order": [
+            0
+          ]
+        },
+        "betOfferType": {
+          "id": 2,
+          "name": "Match",
+          "englishName": "Match"
+        },
+        "eventId": 1007714269,
+        "outcomes": [
+          {
+            "id": 2929776598,
+            "label": "1",
+            "englishLabel": "1",
+            "odds": 11500,
+            "type": "OT_ONE",
+            "betOfferId": 2267716480,
+            "changedDate": "2021-06-11T10:41:57Z",
+            "oddsFractional": "21/2",
+            "oddsAmerican": "1050",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          },
+          {
+            "id": 2929776600,
+            "label": "2",
+            "englishLabel": "2",
+            "odds": 1040,
+            "type": "OT_TWO",
+            "betOfferId": 2267716480,
+            "changedDate": "2021-06-11T10:41:57Z",
+            "oddsFractional": "1/25",
+            "oddsAmerican": "-2500",
+            "status": "OPEN",
+            "cashOutStatus": "ENABLED"
+          }
+        ],
+        "tags": [
+          "OFFERED_PREMATCH",
+          "OFFERED_LIVE",
+          "PBA_DISABLED",
+          "MAIN"
+        ],
+        "cashOutStatus": "ENABLED"
+      }
+    }
+  ],
+  "group": {
+    "id": 1,
+    "groups": [
+      {
+        "id": 1000449347,
+        "name": "Australian Rules",
+        "englishName": "Australian Rules",
+        "groups": [
+          {
+            "id": 1000470474,
+            "name": "AFL",
+            "englishName": "AFL",
+            "sport": "AUSTRALIAN_RULES",
+            "termKey": "afl"
+          }
+        ],
+        "sport": "AUSTRALIAN_RULES",
+        "termKey": "australian_rules"
+      },
+      {
+        "id": 1000093204,
+        "name": "Basketball",
+        "englishName": "Basketball",
+        "groups": [
+          {
+            "id": 1000463001,
+            "name": "Australia",
+            "englishName": "Australia",
+            "groups": [
+              {
+                "id": 1000286559,
+                "name": "NBL",
+                "englishName": "NBL",
+                "sport": "BASKETBALL",
+                "termKey": "nbl"
+              }
+            ],
+            "sport": "BASKETBALL",
+            "termKey": "australia"
+          },
+          {
+            "id": 1000463066,
+            "name": "Turkey",
+            "englishName": "Turkey",
+            "groups": [
+              {
+                "id": 2000057115,
+                "name": "KBSL (W)",
+                "englishName": "KBSL (W)",
+                "sport": "BASKETBALL",
+                "termKey": "kbsl__w_"
+              }
+            ],
+            "sport": "BASKETBALL",
+            "termKey": "turkey"
+          }
+        ],
+        "sport": "BASKETBALL",
+        "termKey": "basketball"
+      },
+      {
+        "id": 1000093178,
+        "name": "Cricket",
+        "englishName": "Cricket",
+        "groups": [
+          {
+            "id": 2000085729,
+            "name": "International Test Cricket",
+            "englishName": "International Test Cricket",
+            "groups": [
+              {
+                "id": 2000125178,
+                "name": "Matches",
+                "englishName": "Matches",
+                "sport": "CRICKET",
+                "termKey": "matches"
+              }
+            ],
+            "sport": "CRICKET",
+            "termKey": "international_test_cricket"
+          }
+        ],
+        "sport": "CRICKET",
+        "termKey": "cricket"
+      },
+      {
+        "id": 1000093225,
+        "name": "Darts",
+        "englishName": "Darts",
+        "groups": [
+          {
+            "id": 2000129353,
+            "name": "Modus Online Live League",
+            "englishName": "Modus Online Live League",
+            "sport": "DARTS",
+            "termKey": "modus_online_live_league"
+          }
+        ],
+        "sport": "DARTS",
+        "termKey": "darts"
+      },
+      {
+        "id": 2000077768,
+        "name": "Esports",
+        "englishName": "Esports",
+        "groups": [
+          {
+            "id": 2000116614,
+            "name": "CS:GO",
+            "englishName": "CS:GO",
+            "groups": [
+              {
+                "id": 2000130173,
+                "name": "Spring Sweet Spring",
+                "englishName": "Spring Sweet Spring",
+                "sport": "COUNTER_STRIKE",
+                "termKey": "spring_sweet_spring"
+              }
+            ],
+            "sport": "COUNTER_STRIKE",
+            "termKey": "cs_go",
+            "sortOrder": "1"
+          },
+          {
+            "id": 2000116235,
+            "name": "Dota 2",
+            "englishName": "Dota 2",
+            "groups": [
+              {
+                "id": 2000130523,
+                "name": "WePlay AniMajor",
+                "englishName": "WePlay AniMajor",
+                "sport": "DOTA",
+                "termKey": "weplay_animajor"
+              }
+            ],
+            "sport": "DOTA",
+            "termKey": "dota_2"
+          },
+          {
+            "id": 2000117177,
+            "name": "League of Legends",
+            "englishName": "League of Legends",
+            "groups": [
+              {
+                "id": 2000117181,
+                "name": "LCK",
+                "englishName": "LCK",
+                "sport": "LEAGUE_OF_LEGENDS",
+                "termKey": "lck"
+              },
+              {
+                "id": 2000118083,
+                "name": "LPL",
+                "englishName": "LPL",
+                "sport": "LEAGUE_OF_LEGENDS",
+                "termKey": "lpl"
+              }
+            ],
+            "sport": "LEAGUE_OF_LEGENDS",
+            "termKey": "league_of_legends"
+          }
+        ],
+        "sport": "ESPORTS",
+        "termKey": "esports"
+      },
+      {
+        "id": 1000093190,
+        "name": "Football",
+        "englishName": "Football",
+        "groups": [
+          {
+            "id": 1000093570,
+            "name": "International Friendly Matches",
+            "englishName": "International Friendly Matches",
+            "sport": "FOOTBALL",
+            "termKey": "international_friendly_matches"
+          },
+          {
+            "id": 2000073085,
+            "name": "Kenya",
+            "englishName": "Kenya",
+            "groups": [
+              {
+                "id": 2000114293,
+                "name": "Super League",
+                "englishName": "Super League",
+                "sport": "FOOTBALL",
+                "termKey": "super_league"
+              }
+            ],
+            "sport": "FOOTBALL",
+            "termKey": "kenya"
+          },
+          {
+            "id": 2000124075,
+            "name": "|Esports FIFA|",
+            "englishName": "|Esports FIFA|",
+            "groups": [
+              {
+                "id": 2000124080,
+                "name": "eSports Battle (2x4min)",
+                "englishName": "eSports Battle (2x4min)",
+                "sport": "FOOTBALL",
+                "termKey": "esports_battle__2x4min_"
+              }
+            ],
+            "sport": "FOOTBALL",
+            "termKey": "esports_fifa"
+          }
+        ],
+        "sport": "FOOTBALL",
+        "termKey": "football"
+      },
+      {
+        "id": 1000093187,
+        "name": "Golf",
+        "englishName": "Golf",
+        "groups": [
+          {
+            "id": 1000093480,
+            "name": "European Tour",
+            "englishName": "European Tour",
+            "groups": [
+              {
+                "id": 2000130580,
+                "name": "Scandinavian Mixed Hosted by Henrik & Annika",
+                "englishName": "Scandinavian Mixed Hosted by Henrik & Annika",
+                "sport": "GOLF",
+                "termKey": "scandinavian_mixed_hosted_by_henrik___annika"
+              }
+            ],
+            "sport": "GOLF",
+            "termKey": "european_tour",
+            "sortOrder": "2"
+          }
+        ],
+        "sport": "GOLF",
+        "termKey": "golf"
+      },
+      {
+        "id": 2000130589,
+        "name": "Padel",
+        "englishName": "Padel",
+        "groups": [
+          {
+            "id": 2000130591,
+            "name": "World Padel Tennis Tour Women",
+            "englishName": "World Padel Tennis Tour Women",
+            "groups": [
+              {
+                "id": 2000130624,
+                "name": "Marbella",
+                "englishName": "Marbella",
+                "sport": "TENNIS",
+                "termKey": "marbella"
+              }
+            ],
+            "sport": "NOT-SPECIFIED",
+            "termKey": "world_padel_tennis_tour_women"
+          }
+        ],
+        "sport": "NOT-SPECIFIED",
+        "termKey": "padel"
+      },
+      {
+        "id": 1000154363,
+        "name": "Rugby League",
+        "englishName": "Rugby League",
+        "groups": [
+          {
+            "id": 2000050687,
+            "name": "NRL",
+            "englishName": "NRL",
+            "sport": "RUGBY_LEAGUE",
+            "termKey": "nrl"
+          }
+        ],
+        "sport": "RUGBY_LEAGUE",
+        "termKey": "rugby_league"
+      },
+      {
+        "id": 1000093193,
+        "name": "Tennis",
+        "englishName": "Tennis",
+        "groups": [
+          {
+            "id": 1000093324,
+            "name": "ATP",
+            "englishName": "ATP",
+            "groups": [
+              {
+                "id": 1000096195,
+                "name": "Stuttgart",
+                "englishName": "Stuttgart",
+                "sport": "TENNIS",
+                "termKey": "stuttgart"
+              }
+            ],
+            "sport": "TENNIS",
+            "termKey": "atp",
+            "sortOrder": "2"
+          },
+          {
+            "id": 1000093904,
+            "name": "WTA",
+            "englishName": "WTA",
+            "groups": [
+              {
+                "id": 2000094671,
+                "name": "Bol",
+                "englishName": "Bol",
+                "sport": "TENNIS",
+                "termKey": "bol"
+              },
+              {
+                "id": 2000087488,
+                "name": "Nottingham",
+                "englishName": "Nottingham",
+                "sport": "TENNIS",
+                "termKey": "nottingham"
+              }
+            ],
+            "sport": "TENNIS",
+            "termKey": "wta",
+            "sortOrder": "3"
+          },
+          {
+            "id": 2000070472,
+            "name": "ATP Doubles",
+            "englishName": "ATP Doubles",
+            "groups": [
+              {
+                "id": 2000070528,
+                "name": "Stuttgart",
+                "englishName": "Stuttgart",
+                "sport": "TENNIS",
+                "termKey": "stuttgart"
+              }
+            ],
+            "sport": "TENNIS",
+            "termKey": "atp_doubles"
+          },
+          {
+            "id": 1000093377,
+            "name": "Challenger",
+            "englishName": "Challenger",
+            "groups": [
+              {
+                "id": 2000093551,
+                "name": "Lyon",
+                "englishName": "Lyon",
+                "sport": "TENNIS",
+                "termKey": "lyon"
+              }
+            ],
+            "sport": "TENNIS",
+            "termKey": "challenger"
+          },
+          {
+            "id": 2000070864,
+            "name": "Challenger Doubles",
+            "englishName": "Challenger Doubles",
+            "groups": [
+              {
+                "id": 2000074632,
+                "name": "Nottingham",
+                "englishName": "Nottingham",
+                "sport": "TENNIS",
+                "termKey": "nottingham"
+              }
+            ],
+            "sport": "TENNIS",
+            "termKey": "challenger_doubles"
+          },
+          {
+            "id": 2000054086,
+            "name": "ITF Men",
+            "englishName": "ITF Men",
+            "groups": [
+              {
+                "id": 2000117964,
+                "name": "Antalya",
+                "englishName": "Antalya",
+                "sport": "TENNIS",
+                "termKey": "antalya"
+              },
+              {
+                "id": 2000130603,
+                "name": "Gaiba",
+                "englishName": "Gaiba",
+                "sport": "TENNIS",
+                "termKey": "gaiba"
+              },
+              {
+                "id": 2000119334,
+                "name": "Heraklion",
+                "englishName": "Heraklion",
+                "sport": "TENNIS",
+                "termKey": "heraklion"
+              }
+            ],
+            "sport": "TENNIS",
+            "termKey": "itf_men"
+          },
+          {
+            "id": 1000462066,
+            "name": "ITF Women",
+            "englishName": "ITF Women",
+            "groups": [
+              {
+                "id": 2000057668,
+                "name": "Heraklion",
+                "englishName": "Heraklion",
+                "sport": "TENNIS",
+                "termKey": "heraklion"
+              },
+              {
+                "id": 2000056116,
+                "name": "Madrid",
+                "englishName": "Madrid",
+                "sport": "TENNIS",
+                "termKey": "madrid"
+              },
+              {
+                "id": 2000056631,
+                "name": "Monastir",
+                "englishName": "Monastir",
+                "sport": "TENNIS",
+                "termKey": "monastir"
+              },
+              {
+                "id": 2000105656,
+                "name": "Montemor-O-Novo",
+                "englishName": "Montemor-O-Novo",
+                "sport": "TENNIS",
+                "termKey": "montemor-o-novo"
+              }
+            ],
+            "sport": "TENNIS",
+            "termKey": "itf_women"
+          },
+          {
+            "id": 2000071266,
+            "name": "ITF Women Doubles",
+            "englishName": "ITF Women Doubles",
+            "groups": [
+              {
+                "id": 2000071320,
+                "name": "Antalya",
+                "englishName": "Antalya",
+                "sport": "TENNIS",
+                "termKey": "antalya"
+              }
+            ],
+            "sport": "TENNIS",
+            "termKey": "itf_women_doubles"
+          }
+        ],
+        "sport": "TENNIS",
+        "termKey": "tennis"
+      },
+      {
+        "id": 1000093214,
+        "name": "Volleyball",
+        "englishName": "Volleyball",
+        "groups": [
+          {
+            "id": 2000115432,
+            "name": "Nations League",
+            "englishName": "Nations League",
+            "sport": "VOLLEYBALL",
+            "termKey": "nations_league"
+          }
+        ],
+        "sport": "VOLLEYBALL",
+        "termKey": "volleyball"
+      }
+    ],
+    "sport": "NOT-SPECIFIED"
+  }
+}
